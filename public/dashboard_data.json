@@ -1,0 +1,5705 @@
+{
+  "totals": {
+    "total_spend": 651137.7,
+    "total_revenue": 1065783.5,
+    "total_conversions": 17817,
+    "blended_roas": 1.64,
+    "raw_row_count": 1463,
+    "clean_row_count": 1438,
+    "flagged_row_count": 25
+  },
+  "channel_summary": [
+    {
+      "channel": "Google Ads",
+      "day_count": 538,
+      "impressions": 7359484,
+      "clicks": 188645,
+      "spend": 244874.46,
+      "conversions": 7455,
+      "revenue": 507391.31,
+      "roas": 2.07,
+      "cpa": 32.85,
+      "cpc": 1.3,
+      "ctr_pct": 2.56
+    },
+    {
+      "channel": "Meta Ads",
+      "day_count": 360,
+      "impressions": 7330632,
+      "clicks": 184157,
+      "spend": 162263.37,
+      "conversions": 4945,
+      "revenue": 288248.21,
+      "roas": 1.78,
+      "cpa": 32.81,
+      "cpc": 0.88,
+      "ctr_pct": 2.51
+    },
+    {
+      "channel": "Programmatic Display",
+      "day_count": 359,
+      "impressions": 13930593,
+      "clicks": 349366,
+      "spend": 162847.03,
+      "conversions": 2924,
+      "revenue": 153283.18,
+      "roas": 0.94,
+      "cpa": 55.69,
+      "cpc": 0.47,
+      "ctr_pct": 2.51
+    },
+    {
+      "channel": "TikTok Ads",
+      "day_count": 181,
+      "impressions": 5290429,
+      "clicks": 136959,
+      "spend": 81152.84,
+      "conversions": 2493,
+      "revenue": 116860.8,
+      "roas": 1.44,
+      "cpa": 32.55,
+      "cpc": 0.59,
+      "ctr_pct": 2.59
+    }
+  ],
+  "campaign_summary": [
+    {
+      "channel": "Google Ads",
+      "campaign": "Brand Search",
+      "spend": 79692.96,
+      "revenue": 170790.48,
+      "conversions": 2491,
+      "roas": 2.14,
+      "cpa": 31.99
+    },
+    {
+      "channel": "Google Ads",
+      "campaign": "Non-Brand Search",
+      "spend": 81700.39,
+      "revenue": 166889.12,
+      "conversions": 2480,
+      "roas": 2.04,
+      "cpa": 32.94
+    },
+    {
+      "channel": "Google Ads",
+      "campaign": "Shopping",
+      "spend": 83481.11,
+      "revenue": 169711.71,
+      "conversions": 2484,
+      "roas": 2.03,
+      "cpa": 33.61
+    },
+    {
+      "channel": "Meta Ads",
+      "campaign": "Prospecting - Lookalike",
+      "spend": 78969.52,
+      "revenue": 141523.38,
+      "conversions": 2411,
+      "roas": 1.79,
+      "cpa": 32.75
+    },
+    {
+      "channel": "Meta Ads",
+      "campaign": "Retargeting - Cart Abandoners",
+      "spend": 83293.85,
+      "revenue": 146724.83,
+      "conversions": 2534,
+      "roas": 1.76,
+      "cpa": 32.87
+    },
+    {
+      "channel": "Programmatic Display",
+      "campaign": "Display - Prospecting",
+      "spend": 77988.47,
+      "revenue": 70816.31,
+      "conversions": 1379,
+      "roas": 0.91,
+      "cpa": 56.55
+    },
+    {
+      "channel": "Programmatic Display",
+      "campaign": "Display - Retargeting",
+      "spend": 84858.56,
+      "revenue": 82466.87,
+      "conversions": 1545,
+      "roas": 0.97,
+      "cpa": 54.92
+    },
+    {
+      "channel": "TikTok Ads",
+      "campaign": "Spark Ads - UGC",
+      "spend": 81152.84,
+      "revenue": 116860.8,
+      "conversions": 2493,
+      "roas": 1.44,
+      "cpa": 32.55
+    }
+  ],
+  "daily_trend": [
+    {
+      "date": "2026-04-01",
+      "channel": "Google Ads",
+      "spend": 648.0799999999999,
+      "revenue": 1508.76,
+      "conversions": 22
+    },
+    {
+      "date": "2026-04-01",
+      "channel": "Meta Ads",
+      "spend": 768.03,
+      "revenue": 1277.98,
+      "conversions": 23
+    },
+    {
+      "date": "2026-04-01",
+      "channel": "Programmatic Display",
+      "spend": 655.01,
+      "revenue": 502.78,
+      "conversions": 9
+    },
+    {
+      "date": "2026-04-01",
+      "channel": "TikTok Ads",
+      "spend": 427.26,
+      "revenue": 675.23,
+      "conversions": 13
+    },
+    {
+      "date": "2026-04-02",
+      "channel": "Google Ads",
+      "spend": 1094.03,
+      "revenue": 2707.37,
+      "conversions": 37
+    },
+    {
+      "date": "2026-04-02",
+      "channel": "Meta Ads",
+      "spend": 573.9300000000001,
+      "revenue": 1141.9,
+      "conversions": 18
+    },
+    {
+      "date": "2026-04-02",
+      "channel": "Programmatic Display",
+      "spend": 772.4399999999999,
+      "revenue": 762.79,
+      "conversions": 14
+    },
+    {
+      "date": "2026-04-02",
+      "channel": "TikTok Ads",
+      "spend": 362.51,
+      "revenue": 245.37,
+      "conversions": 6
+    },
+    {
+      "date": "2026-04-03",
+      "channel": "Google Ads",
+      "spend": 1509.6799999999998,
+      "revenue": 2966.81,
+      "conversions": 41
+    },
+    {
+      "date": "2026-04-03",
+      "channel": "Meta Ads",
+      "spend": 877.85,
+      "revenue": 1074.9,
+      "conversions": 19
+    },
+    {
+      "date": "2026-04-03",
+      "channel": "Programmatic Display",
+      "spend": 1123.33,
+      "revenue": 1202.0500000000002,
+      "conversions": 21
+    },
+    {
+      "date": "2026-04-03",
+      "channel": "TikTok Ads",
+      "spend": 737.76,
+      "revenue": 1025.27,
+      "conversions": 21
+    },
+    {
+      "date": "2026-04-04",
+      "channel": "Google Ads",
+      "spend": 1149.31,
+      "revenue": 2187.41,
+      "conversions": 34
+    },
+    {
+      "date": "2026-04-04",
+      "channel": "Meta Ads",
+      "spend": 936.3299999999999,
+      "revenue": 1882.5900000000001,
+      "conversions": 28
+    },
+    {
+      "date": "2026-04-04",
+      "channel": "Programmatic Display",
+      "spend": 817.14,
+      "revenue": 571.69,
+      "conversions": 12
+    },
+    {
+      "date": "2026-04-04",
+      "channel": "TikTok Ads",
+      "spend": 196.23,
+      "revenue": 299.54,
+      "conversions": 6
+    },
+    {
+      "date": "2026-04-05",
+      "channel": "Google Ads",
+      "spend": 1429.51,
+      "revenue": 4086.8100000000004,
+      "conversions": 50
+    },
+    {
+      "date": "2026-04-05",
+      "channel": "Meta Ads",
+      "spend": 885.74,
+      "revenue": 1742.31,
+      "conversions": 34
+    },
+    {
+      "date": "2026-04-05",
+      "channel": "Programmatic Display",
+      "spend": 977.0,
+      "revenue": 779.41,
+      "conversions": 16
+    },
+    {
+      "date": "2026-04-05",
+      "channel": "TikTok Ads",
+      "spend": 194.66,
+      "revenue": 187.21,
+      "conversions": 4
+    },
+    {
+      "date": "2026-04-06",
+      "channel": "Google Ads",
+      "spend": 1139.01,
+      "revenue": 2447.31,
+      "conversions": 34
+    },
+    {
+      "date": "2026-04-06",
+      "channel": "Meta Ads",
+      "spend": 1715.35,
+      "revenue": 3100.12,
+      "conversions": 46
+    },
+    {
+      "date": "2026-04-06",
+      "channel": "Programmatic Display",
+      "spend": 677.69,
+      "revenue": 685.05,
+      "conversions": 13
+    },
+    {
+      "date": "2026-04-06",
+      "channel": "TikTok Ads",
+      "spend": 416.54,
+      "revenue": 638.13,
+      "conversions": 13
+    },
+    {
+      "date": "2026-04-07",
+      "channel": "Google Ads",
+      "spend": 1087.62,
+      "revenue": 1890.54,
+      "conversions": 26
+    },
+    {
+      "date": "2026-04-07",
+      "channel": "Meta Ads",
+      "spend": 774.89,
+      "revenue": 1158.17,
+      "conversions": 21
+    },
+    {
+      "date": "2026-04-07",
+      "channel": "Programmatic Display",
+      "spend": 857.1,
+      "revenue": 1274.29,
+      "conversions": 25
+    },
+    {
+      "date": "2026-04-07",
+      "channel": "TikTok Ads",
+      "spend": 639.14,
+      "revenue": 868.61,
+      "conversions": 24
+    },
+    {
+      "date": "2026-04-08",
+      "channel": "Google Ads",
+      "spend": 1084.27,
+      "revenue": 2298.7799999999997,
+      "conversions": 32
+    },
+    {
+      "date": "2026-04-08",
+      "channel": "Meta Ads",
+      "spend": 837.1800000000001,
+      "revenue": 1356.94,
+      "conversions": 23
+    },
+    {
+      "date": "2026-04-08",
+      "channel": "Programmatic Display",
+      "spend": 1049.46,
+      "revenue": 957.49,
+      "conversions": 18
+    },
+    {
+      "date": "2026-04-08",
+      "channel": "TikTok Ads",
+      "spend": 165.58,
+      "revenue": 134.55,
+      "conversions": 3
+    },
+    {
+      "date": "2026-04-09",
+      "channel": "Google Ads",
+      "spend": 985.1700000000001,
+      "revenue": 2273.09,
+      "conversions": 34
+    },
+    {
+      "date": "2026-04-09",
+      "channel": "Meta Ads",
+      "spend": 920.7,
+      "revenue": 1473.02,
+      "conversions": 24
+    },
+    {
+      "date": "2026-04-09",
+      "channel": "Programmatic Display",
+      "spend": 822.5899999999999,
+      "revenue": 863.63,
+      "conversions": 16
+    },
+    {
+      "date": "2026-04-09",
+      "channel": "TikTok Ads",
+      "spend": 213.96,
+      "revenue": 271.34,
+      "conversions": 6
+    },
+    {
+      "date": "2026-04-10",
+      "channel": "Google Ads",
+      "spend": 1758.47,
+      "revenue": 2666.54,
+      "conversions": 43
+    },
+    {
+      "date": "2026-04-10",
+      "channel": "Meta Ads",
+      "spend": 964.79,
+      "revenue": 1813.47,
+      "conversions": 29
+    },
+    {
+      "date": "2026-04-10",
+      "channel": "Programmatic Display",
+      "spend": 787.92,
+      "revenue": 749.13,
+      "conversions": 16
+    },
+    {
+      "date": "2026-04-10",
+      "channel": "TikTok Ads",
+      "spend": 426.77,
+      "revenue": 667.43,
+      "conversions": 12
+    },
+    {
+      "date": "2026-04-11",
+      "channel": "Google Ads",
+      "spend": 866.57,
+      "revenue": 2292.6099999999997,
+      "conversions": 31
+    },
+    {
+      "date": "2026-04-11",
+      "channel": "Meta Ads",
+      "spend": 846.58,
+      "revenue": 1280.6399999999999,
+      "conversions": 22
+    },
+    {
+      "date": "2026-04-11",
+      "channel": "Programmatic Display",
+      "spend": 775.52,
+      "revenue": 647.1,
+      "conversions": 13
+    },
+    {
+      "date": "2026-04-11",
+      "channel": "TikTok Ads",
+      "spend": 537.46,
+      "revenue": 545.24,
+      "conversions": 15
+    },
+    {
+      "date": "2026-04-12",
+      "channel": "Google Ads",
+      "spend": 1108.16,
+      "revenue": 1915.24,
+      "conversions": 31
+    },
+    {
+      "date": "2026-04-12",
+      "channel": "Meta Ads",
+      "spend": 889.25,
+      "revenue": 1559.87,
+      "conversions": 28
+    },
+    {
+      "date": "2026-04-12",
+      "channel": "Programmatic Display",
+      "spend": 1083.27,
+      "revenue": 1255.5700000000002,
+      "conversions": 21
+    },
+    {
+      "date": "2026-04-13",
+      "channel": "Google Ads",
+      "spend": 1007.53,
+      "revenue": 2431.62,
+      "conversions": 33
+    },
+    {
+      "date": "2026-04-13",
+      "channel": "Meta Ads",
+      "spend": 953.56,
+      "revenue": 2503.49,
+      "conversions": 44
+    },
+    {
+      "date": "2026-04-13",
+      "channel": "Programmatic Display",
+      "spend": 628.15,
+      "revenue": 543.04,
+      "conversions": 11
+    },
+    {
+      "date": "2026-04-13",
+      "channel": "TikTok Ads",
+      "spend": 219.36,
+      "revenue": 297.47,
+      "conversions": 7
+    },
+    {
+      "date": "2026-04-14",
+      "channel": "Google Ads",
+      "spend": 939.6200000000001,
+      "revenue": 2358.0299999999997,
+      "conversions": 35
+    },
+    {
+      "date": "2026-04-14",
+      "channel": "Meta Ads",
+      "spend": 824.23,
+      "revenue": 1423.74,
+      "conversions": 29
+    },
+    {
+      "date": "2026-04-14",
+      "channel": "Programmatic Display",
+      "spend": 652.9200000000001,
+      "revenue": 442.12,
+      "conversions": 9
+    },
+    {
+      "date": "2026-04-14",
+      "channel": "TikTok Ads",
+      "spend": 180.51,
+      "revenue": 240.3,
+      "conversions": 5
+    },
+    {
+      "date": "2026-04-15",
+      "channel": "Google Ads",
+      "spend": 1049.6399999999999,
+      "revenue": 2170.7200000000003,
+      "conversions": 31
+    },
+    {
+      "date": "2026-04-15",
+      "channel": "Meta Ads",
+      "spend": 1086.58,
+      "revenue": 2645.26,
+      "conversions": 44
+    },
+    {
+      "date": "2026-04-15",
+      "channel": "Programmatic Display",
+      "spend": 337.24,
+      "revenue": 201.95,
+      "conversions": 4
+    },
+    {
+      "date": "2026-04-15",
+      "channel": "TikTok Ads",
+      "spend": 191.22,
+      "revenue": 277.76,
+      "conversions": 7
+    },
+    {
+      "date": "2026-04-16",
+      "channel": "Google Ads",
+      "spend": 936.97,
+      "revenue": 1607.16,
+      "conversions": 21
+    },
+    {
+      "date": "2026-04-16",
+      "channel": "Meta Ads",
+      "spend": 975.7,
+      "revenue": 1285.2,
+      "conversions": 21
+    },
+    {
+      "date": "2026-04-16",
+      "channel": "Programmatic Display",
+      "spend": 711.92,
+      "revenue": 590.26,
+      "conversions": 12
+    },
+    {
+      "date": "2026-04-16",
+      "channel": "TikTok Ads",
+      "spend": 405.8,
+      "revenue": 649.38,
+      "conversions": 14
+    },
+    {
+      "date": "2026-04-17",
+      "channel": "Google Ads",
+      "spend": 1686.5700000000002,
+      "revenue": 3116.9,
+      "conversions": 46
+    },
+    {
+      "date": "2026-04-17",
+      "channel": "Meta Ads",
+      "spend": 1159.49,
+      "revenue": 3331.45,
+      "conversions": 55
+    },
+    {
+      "date": "2026-04-17",
+      "channel": "Programmatic Display",
+      "spend": 514.77,
+      "revenue": 426.94,
+      "conversions": 9
+    },
+    {
+      "date": "2026-04-17",
+      "channel": "TikTok Ads",
+      "spend": 370.95,
+      "revenue": 144.73,
+      "conversions": 4
+    },
+    {
+      "date": "2026-04-18",
+      "channel": "Google Ads",
+      "spend": 2349.1400000000003,
+      "revenue": 3653.5099999999998,
+      "conversions": 59
+    },
+    {
+      "date": "2026-04-18",
+      "channel": "Meta Ads",
+      "spend": 1022.33,
+      "revenue": 1178.29,
+      "conversions": 19
+    },
+    {
+      "date": "2026-04-18",
+      "channel": "Programmatic Display",
+      "spend": 1105.79,
+      "revenue": 541.55,
+      "conversions": 13
+    },
+    {
+      "date": "2026-04-18",
+      "channel": "TikTok Ads",
+      "spend": 521.19,
+      "revenue": 826.27,
+      "conversions": 18
+    },
+    {
+      "date": "2026-04-19",
+      "channel": "Google Ads",
+      "spend": 1212.6,
+      "revenue": 2547.88,
+      "conversions": 41
+    },
+    {
+      "date": "2026-04-19",
+      "channel": "Meta Ads",
+      "spend": 1047.47,
+      "revenue": 2016.93,
+      "conversions": 32
+    },
+    {
+      "date": "2026-04-19",
+      "channel": "Programmatic Display",
+      "spend": 545.97,
+      "revenue": 321.1,
+      "conversions": 7
+    },
+    {
+      "date": "2026-04-19",
+      "channel": "TikTok Ads",
+      "spend": 362.76,
+      "revenue": 394.01,
+      "conversions": 9
+    },
+    {
+      "date": "2026-04-20",
+      "channel": "Google Ads",
+      "spend": 1304.43,
+      "revenue": 2375.7200000000003,
+      "conversions": 38
+    },
+    {
+      "date": "2026-04-20",
+      "channel": "Meta Ads",
+      "spend": 849.99,
+      "revenue": 796.9,
+      "conversions": 17
+    },
+    {
+      "date": "2026-04-20",
+      "channel": "Programmatic Display",
+      "spend": 841.7,
+      "revenue": 379.24,
+      "conversions": 7
+    },
+    {
+      "date": "2026-04-20",
+      "channel": "TikTok Ads",
+      "spend": 344.52,
+      "revenue": 509.1,
+      "conversions": 11
+    },
+    {
+      "date": "2026-04-21",
+      "channel": "Google Ads",
+      "spend": 1597.51,
+      "revenue": 3265.73,
+      "conversions": 45
+    },
+    {
+      "date": "2026-04-21",
+      "channel": "Meta Ads",
+      "spend": 738.25,
+      "revenue": 1253.22,
+      "conversions": 20
+    },
+    {
+      "date": "2026-04-21",
+      "channel": "Programmatic Display",
+      "spend": 729.6600000000001,
+      "revenue": 690.3299999999999,
+      "conversions": 13
+    },
+    {
+      "date": "2026-04-21",
+      "channel": "TikTok Ads",
+      "spend": 322.92,
+      "revenue": 419.07,
+      "conversions": 9
+    },
+    {
+      "date": "2026-04-22",
+      "channel": "Google Ads",
+      "spend": 840.67,
+      "revenue": 1681.29,
+      "conversions": 22
+    },
+    {
+      "date": "2026-04-22",
+      "channel": "Meta Ads",
+      "spend": 435.03,
+      "revenue": 660.47,
+      "conversions": 11
+    },
+    {
+      "date": "2026-04-22",
+      "channel": "Programmatic Display",
+      "spend": 899.74,
+      "revenue": 912.11,
+      "conversions": 16
+    },
+    {
+      "date": "2026-04-22",
+      "channel": "TikTok Ads",
+      "spend": 413.38,
+      "revenue": 446.47,
+      "conversions": 11
+    },
+    {
+      "date": "2026-04-23",
+      "channel": "Google Ads",
+      "spend": 1116.9,
+      "revenue": 2375.6,
+      "conversions": 32
+    },
+    {
+      "date": "2026-04-23",
+      "channel": "Meta Ads",
+      "spend": 785.5699999999999,
+      "revenue": 1332.8000000000002,
+      "conversions": 23
+    },
+    {
+      "date": "2026-04-23",
+      "channel": "Programmatic Display",
+      "spend": 545.5,
+      "revenue": 473.61,
+      "conversions": 9
+    },
+    {
+      "date": "2026-04-23",
+      "channel": "TikTok Ads",
+      "spend": 353.99,
+      "revenue": 460.22,
+      "conversions": 10
+    },
+    {
+      "date": "2026-04-24",
+      "channel": "Google Ads",
+      "spend": 1749.46,
+      "revenue": 3416.2,
+      "conversions": 45
+    },
+    {
+      "date": "2026-04-24",
+      "channel": "Meta Ads",
+      "spend": 803.5799999999999,
+      "revenue": 1636.51,
+      "conversions": 29
+    },
+    {
+      "date": "2026-04-24",
+      "channel": "Programmatic Display",
+      "spend": 557.98,
+      "revenue": 705.96,
+      "conversions": 13
+    },
+    {
+      "date": "2026-04-24",
+      "channel": "TikTok Ads",
+      "spend": 407.43,
+      "revenue": 551.46,
+      "conversions": 12
+    },
+    {
+      "date": "2026-04-25",
+      "channel": "Google Ads",
+      "spend": 919.1700000000001,
+      "revenue": 1606.67,
+      "conversions": 25
+    },
+    {
+      "date": "2026-04-25",
+      "channel": "Meta Ads",
+      "spend": 609.02,
+      "revenue": 1057.05,
+      "conversions": 18
+    },
+    {
+      "date": "2026-04-25",
+      "channel": "Programmatic Display",
+      "spend": 1083.49,
+      "revenue": 960.14,
+      "conversions": 18
+    },
+    {
+      "date": "2026-04-25",
+      "channel": "TikTok Ads",
+      "spend": 232.91,
+      "revenue": 416.63,
+      "conversions": 10
+    },
+    {
+      "date": "2026-04-26",
+      "channel": "Google Ads",
+      "spend": 904.89,
+      "revenue": 1586.84,
+      "conversions": 23
+    },
+    {
+      "date": "2026-04-26",
+      "channel": "Meta Ads",
+      "spend": 821.15,
+      "revenue": 1071.76,
+      "conversions": 18
+    },
+    {
+      "date": "2026-04-26",
+      "channel": "Programmatic Display",
+      "spend": 483.35,
+      "revenue": 510.89,
+      "conversions": 10
+    },
+    {
+      "date": "2026-04-26",
+      "channel": "TikTok Ads",
+      "spend": 476.45,
+      "revenue": 625.62,
+      "conversions": 14
+    },
+    {
+      "date": "2026-04-27",
+      "channel": "Google Ads",
+      "spend": 1202.34,
+      "revenue": 3095.58,
+      "conversions": 42
+    },
+    {
+      "date": "2026-04-27",
+      "channel": "Meta Ads",
+      "spend": 527.0,
+      "revenue": 846.56,
+      "conversions": 16
+    },
+    {
+      "date": "2026-04-27",
+      "channel": "Programmatic Display",
+      "spend": 1087.96,
+      "revenue": 703.2,
+      "conversions": 13
+    },
+    {
+      "date": "2026-04-27",
+      "channel": "TikTok Ads",
+      "spend": 199.86,
+      "revenue": 257.09,
+      "conversions": 6
+    },
+    {
+      "date": "2026-04-28",
+      "channel": "Google Ads",
+      "spend": 1197.83,
+      "revenue": 2693.2799999999997,
+      "conversions": 44
+    },
+    {
+      "date": "2026-04-28",
+      "channel": "Meta Ads",
+      "spend": 819.92,
+      "revenue": 1517.35,
+      "conversions": 24
+    },
+    {
+      "date": "2026-04-28",
+      "channel": "Programmatic Display",
+      "spend": 746.0799999999999,
+      "revenue": 521.41,
+      "conversions": 11
+    },
+    {
+      "date": "2026-04-28",
+      "channel": "TikTok Ads",
+      "spend": 477.1,
+      "revenue": 569.89,
+      "conversions": 13
+    },
+    {
+      "date": "2026-04-29",
+      "channel": "Google Ads",
+      "spend": 1416.9099999999999,
+      "revenue": 2175.9,
+      "conversions": 32
+    },
+    {
+      "date": "2026-04-29",
+      "channel": "Meta Ads",
+      "spend": 1067.59,
+      "revenue": 2381.63,
+      "conversions": 41
+    },
+    {
+      "date": "2026-04-29",
+      "channel": "Programmatic Display",
+      "spend": 893.82,
+      "revenue": 649.64,
+      "conversions": 13
+    },
+    {
+      "date": "2026-04-29",
+      "channel": "TikTok Ads",
+      "spend": 270.26,
+      "revenue": 383.63,
+      "conversions": 8
+    },
+    {
+      "date": "2026-04-30",
+      "channel": "Google Ads",
+      "spend": 716.56,
+      "revenue": 943.31,
+      "conversions": 14
+    },
+    {
+      "date": "2026-04-30",
+      "channel": "Meta Ads",
+      "spend": 523.0799999999999,
+      "revenue": 810.4499999999999,
+      "conversions": 15
+    },
+    {
+      "date": "2026-04-30",
+      "channel": "Programmatic Display",
+      "spend": 496.11,
+      "revenue": 332.85,
+      "conversions": 7
+    },
+    {
+      "date": "2026-04-30",
+      "channel": "TikTok Ads",
+      "spend": 351.52,
+      "revenue": 245.29,
+      "conversions": 7
+    },
+    {
+      "date": "2026-05-01",
+      "channel": "Google Ads",
+      "spend": 2107.93,
+      "revenue": 6185.77,
+      "conversions": 90
+    },
+    {
+      "date": "2026-05-01",
+      "channel": "Meta Ads",
+      "spend": 657.78,
+      "revenue": 689.38,
+      "conversions": 14
+    },
+    {
+      "date": "2026-05-01",
+      "channel": "Programmatic Display",
+      "spend": 619.28,
+      "revenue": 428.69,
+      "conversions": 8
+    },
+    {
+      "date": "2026-05-01",
+      "channel": "TikTok Ads",
+      "spend": 454.36,
+      "revenue": 320.43,
+      "conversions": 7
+    },
+    {
+      "date": "2026-05-02",
+      "channel": "Google Ads",
+      "spend": 1214.45,
+      "revenue": 2277.71,
+      "conversions": 32
+    },
+    {
+      "date": "2026-05-02",
+      "channel": "Meta Ads",
+      "spend": 1180.57,
+      "revenue": 2224.6400000000003,
+      "conversions": 43
+    },
+    {
+      "date": "2026-05-02",
+      "channel": "Programmatic Display",
+      "spend": 996.67,
+      "revenue": 1083.05,
+      "conversions": 21
+    },
+    {
+      "date": "2026-05-02",
+      "channel": "TikTok Ads",
+      "spend": 338.99,
+      "revenue": 403.95,
+      "conversions": 10
+    },
+    {
+      "date": "2026-05-03",
+      "channel": "Google Ads",
+      "spend": 1320.5900000000001,
+      "revenue": 2244.09,
+      "conversions": 35
+    },
+    {
+      "date": "2026-05-03",
+      "channel": "Meta Ads",
+      "spend": 653.04,
+      "revenue": 1001.37,
+      "conversions": 17
+    },
+    {
+      "date": "2026-05-03",
+      "channel": "Programmatic Display",
+      "spend": 909.1400000000001,
+      "revenue": 1170.52,
+      "conversions": 23
+    },
+    {
+      "date": "2026-05-03",
+      "channel": "TikTok Ads",
+      "spend": 612.42,
+      "revenue": 1322.5,
+      "conversions": 29
+    },
+    {
+      "date": "2026-05-04",
+      "channel": "Google Ads",
+      "spend": 700.69,
+      "revenue": 1497.38,
+      "conversions": 21
+    },
+    {
+      "date": "2026-05-04",
+      "channel": "Meta Ads",
+      "spend": 636.25,
+      "revenue": 658.5999999999999,
+      "conversions": 12
+    },
+    {
+      "date": "2026-05-04",
+      "channel": "Programmatic Display",
+      "spend": 796.96,
+      "revenue": 707.74,
+      "conversions": 12
+    },
+    {
+      "date": "2026-05-04",
+      "channel": "TikTok Ads",
+      "spend": 420.26,
+      "revenue": 789.02,
+      "conversions": 13
+    },
+    {
+      "date": "2026-05-05",
+      "channel": "Google Ads",
+      "spend": 1344.96,
+      "revenue": 2895.83,
+      "conversions": 45
+    },
+    {
+      "date": "2026-05-05",
+      "channel": "Meta Ads",
+      "spend": 644.56,
+      "revenue": 693.4300000000001,
+      "conversions": 12
+    },
+    {
+      "date": "2026-05-05",
+      "channel": "Programmatic Display",
+      "spend": 990.93,
+      "revenue": 1302.4099999999999,
+      "conversions": 25
+    },
+    {
+      "date": "2026-05-05",
+      "channel": "TikTok Ads",
+      "spend": 325.91,
+      "revenue": 292.29,
+      "conversions": 7
+    },
+    {
+      "date": "2026-05-06",
+      "channel": "Google Ads",
+      "spend": 1403.9,
+      "revenue": 3978.8499999999995,
+      "conversions": 54
+    },
+    {
+      "date": "2026-05-06",
+      "channel": "Meta Ads",
+      "spend": 994.24,
+      "revenue": 1533.37,
+      "conversions": 24
+    },
+    {
+      "date": "2026-05-06",
+      "channel": "Programmatic Display",
+      "spend": 1162.08,
+      "revenue": 732.48,
+      "conversions": 14
+    },
+    {
+      "date": "2026-05-06",
+      "channel": "TikTok Ads",
+      "spend": 329.7,
+      "revenue": 478.92,
+      "conversions": 9
+    },
+    {
+      "date": "2026-05-07",
+      "channel": "Google Ads",
+      "spend": 1176.39,
+      "revenue": 3028.7200000000003,
+      "conversions": 41
+    },
+    {
+      "date": "2026-05-07",
+      "channel": "Meta Ads",
+      "spend": 501.99,
+      "revenue": 893.46,
+      "conversions": 16
+    },
+    {
+      "date": "2026-05-07",
+      "channel": "Programmatic Display",
+      "spend": 724.53,
+      "revenue": 842.19,
+      "conversions": 17
+    },
+    {
+      "date": "2026-05-07",
+      "channel": "TikTok Ads",
+      "spend": 511.81,
+      "revenue": 491.14,
+      "conversions": 11
+    },
+    {
+      "date": "2026-05-08",
+      "channel": "Google Ads",
+      "spend": 937.47,
+      "revenue": 2285.0,
+      "conversions": 33
+    },
+    {
+      "date": "2026-05-08",
+      "channel": "Meta Ads",
+      "spend": 995.55,
+      "revenue": 2039.8600000000001,
+      "conversions": 30
+    },
+    {
+      "date": "2026-05-08",
+      "channel": "Programmatic Display",
+      "spend": 938.57,
+      "revenue": 862.44,
+      "conversions": 21
+    },
+    {
+      "date": "2026-05-08",
+      "channel": "TikTok Ads",
+      "spend": 393.18,
+      "revenue": 325.69,
+      "conversions": 6
+    },
+    {
+      "date": "2026-05-09",
+      "channel": "Google Ads",
+      "spend": 1436.25,
+      "revenue": 3302.95,
+      "conversions": 49
+    },
+    {
+      "date": "2026-05-09",
+      "channel": "Meta Ads",
+      "spend": 937.98,
+      "revenue": 1516.1,
+      "conversions": 26
+    },
+    {
+      "date": "2026-05-09",
+      "channel": "Programmatic Display",
+      "spend": 830.1899999999999,
+      "revenue": 682.1,
+      "conversions": 14
+    },
+    {
+      "date": "2026-05-09",
+      "channel": "TikTok Ads",
+      "spend": 622.53,
+      "revenue": 1239.17,
+      "conversions": 33
+    },
+    {
+      "date": "2026-05-10",
+      "channel": "Google Ads",
+      "spend": 1002.56,
+      "revenue": 1856.35,
+      "conversions": 28
+    },
+    {
+      "date": "2026-05-10",
+      "channel": "Meta Ads",
+      "spend": 867.45,
+      "revenue": 1204.52,
+      "conversions": 20
+    },
+    {
+      "date": "2026-05-10",
+      "channel": "Programmatic Display",
+      "spend": 572.52,
+      "revenue": 611.61,
+      "conversions": 12
+    },
+    {
+      "date": "2026-05-10",
+      "channel": "TikTok Ads",
+      "spend": 314.49,
+      "revenue": 857.24,
+      "conversions": 17
+    },
+    {
+      "date": "2026-05-11",
+      "channel": "Google Ads",
+      "spend": 1082.96,
+      "revenue": 1973.7599999999998,
+      "conversions": 32
+    },
+    {
+      "date": "2026-05-11",
+      "channel": "Meta Ads",
+      "spend": 0.0,
+      "revenue": 946.91,
+      "conversions": 18
+    },
+    {
+      "date": "2026-05-11",
+      "channel": "Programmatic Display",
+      "spend": 816.86,
+      "revenue": 675.12,
+      "conversions": 13
+    },
+    {
+      "date": "2026-05-11",
+      "channel": "TikTok Ads",
+      "spend": 517.91,
+      "revenue": 640.72,
+      "conversions": 15
+    },
+    {
+      "date": "2026-05-12",
+      "channel": "Google Ads",
+      "spend": 963.53,
+      "revenue": 2328.81,
+      "conversions": 32
+    },
+    {
+      "date": "2026-05-12",
+      "channel": "Meta Ads",
+      "spend": 0.0,
+      "revenue": 1325.4,
+      "conversions": 23
+    },
+    {
+      "date": "2026-05-12",
+      "channel": "Programmatic Display",
+      "spend": 1249.92,
+      "revenue": 833.97,
+      "conversions": 18
+    },
+    {
+      "date": "2026-05-12",
+      "channel": "TikTok Ads",
+      "spend": 213.2,
+      "revenue": 361.83,
+      "conversions": 7
+    },
+    {
+      "date": "2026-05-13",
+      "channel": "Google Ads",
+      "spend": 1060.25,
+      "revenue": 1892.38,
+      "conversions": 27
+    },
+    {
+      "date": "2026-05-13",
+      "channel": "Meta Ads",
+      "spend": 0.0,
+      "revenue": 2069.72,
+      "conversions": 36
+    },
+    {
+      "date": "2026-05-13",
+      "channel": "Programmatic Display",
+      "spend": 762.44,
+      "revenue": 652.64,
+      "conversions": 12
+    },
+    {
+      "date": "2026-05-13",
+      "channel": "TikTok Ads",
+      "spend": 744.5,
+      "revenue": 1737.94,
+      "conversions": 36
+    },
+    {
+      "date": "2026-05-14",
+      "channel": "Google Ads",
+      "spend": 1172.46,
+      "revenue": 2443.85,
+      "conversions": 34
+    },
+    {
+      "date": "2026-05-14",
+      "channel": "Meta Ads",
+      "spend": 633.41,
+      "revenue": 563.4,
+      "conversions": 10
+    },
+    {
+      "date": "2026-05-14",
+      "channel": "Programmatic Display",
+      "spend": 885.5999999999999,
+      "revenue": 979.51,
+      "conversions": 16
+    },
+    {
+      "date": "2026-05-14",
+      "channel": "TikTok Ads",
+      "spend": 274.0,
+      "revenue": 191.69,
+      "conversions": 4
+    },
+    {
+      "date": "2026-05-15",
+      "channel": "Google Ads",
+      "spend": 1238.9,
+      "revenue": 2713.36,
+      "conversions": 40
+    },
+    {
+      "date": "2026-05-15",
+      "channel": "Meta Ads",
+      "spend": 583.4,
+      "revenue": 1133.46,
+      "conversions": 23
+    },
+    {
+      "date": "2026-05-15",
+      "channel": "Programmatic Display",
+      "spend": 695.6700000000001,
+      "revenue": 570.14,
+      "conversions": 11
+    },
+    {
+      "date": "2026-05-15",
+      "channel": "TikTok Ads",
+      "spend": 508.86,
+      "revenue": 529.62,
+      "conversions": 14
+    },
+    {
+      "date": "2026-05-16",
+      "channel": "Google Ads",
+      "spend": 1171.76,
+      "revenue": 3303.55,
+      "conversions": 48
+    },
+    {
+      "date": "2026-05-16",
+      "channel": "Meta Ads",
+      "spend": 882.95,
+      "revenue": 2645.73,
+      "conversions": 38
+    },
+    {
+      "date": "2026-05-16",
+      "channel": "Programmatic Display",
+      "spend": 1135.88,
+      "revenue": 1050.42,
+      "conversions": 20
+    },
+    {
+      "date": "2026-05-16",
+      "channel": "TikTok Ads",
+      "spend": 736.16,
+      "revenue": 767.23,
+      "conversions": 15
+    },
+    {
+      "date": "2026-05-17",
+      "channel": "Google Ads",
+      "spend": 1103.64,
+      "revenue": 2218.58,
+      "conversions": 34
+    },
+    {
+      "date": "2026-05-17",
+      "channel": "Meta Ads",
+      "spend": 808.75,
+      "revenue": 1607.74,
+      "conversions": 28
+    },
+    {
+      "date": "2026-05-17",
+      "channel": "Programmatic Display",
+      "spend": 420.3,
+      "revenue": 412.3,
+      "conversions": 8
+    },
+    {
+      "date": "2026-05-17",
+      "channel": "TikTok Ads",
+      "spend": 704.62,
+      "revenue": 818.96,
+      "conversions": 18
+    },
+    {
+      "date": "2026-05-18",
+      "channel": "Google Ads",
+      "spend": 908.94,
+      "revenue": 1867.08,
+      "conversions": 32
+    },
+    {
+      "date": "2026-05-18",
+      "channel": "Meta Ads",
+      "spend": 676.88,
+      "revenue": 697.01,
+      "conversions": 13
+    },
+    {
+      "date": "2026-05-18",
+      "channel": "Programmatic Display",
+      "spend": 885.26,
+      "revenue": 887.6600000000001,
+      "conversions": 18
+    },
+    {
+      "date": "2026-05-18",
+      "channel": "TikTok Ads",
+      "spend": 507.61,
+      "revenue": 903.47,
+      "conversions": 20
+    },
+    {
+      "date": "2026-05-19",
+      "channel": "Google Ads",
+      "spend": 1173.16,
+      "revenue": 1913.2,
+      "conversions": 29
+    },
+    {
+      "date": "2026-05-19",
+      "channel": "Meta Ads",
+      "spend": 975.6200000000001,
+      "revenue": 1235.29,
+      "conversions": 22
+    },
+    {
+      "date": "2026-05-19",
+      "channel": "Programmatic Display",
+      "spend": 608.69,
+      "revenue": 487.76,
+      "conversions": 9
+    },
+    {
+      "date": "2026-05-19",
+      "channel": "TikTok Ads",
+      "spend": 394.86,
+      "revenue": 514.24,
+      "conversions": 13
+    },
+    {
+      "date": "2026-05-20",
+      "channel": "Google Ads",
+      "spend": 1228.94,
+      "revenue": 2514.46,
+      "conversions": 38
+    },
+    {
+      "date": "2026-05-20",
+      "channel": "Meta Ads",
+      "spend": 519.0,
+      "revenue": 900.4200000000001,
+      "conversions": 15
+    },
+    {
+      "date": "2026-05-20",
+      "channel": "Programmatic Display",
+      "spend": 836.48,
+      "revenue": 957.76,
+      "conversions": 21
+    },
+    {
+      "date": "2026-05-20",
+      "channel": "TikTok Ads",
+      "spend": 219.22,
+      "revenue": 221.93,
+      "conversions": 5
+    },
+    {
+      "date": "2026-05-21",
+      "channel": "Google Ads",
+      "spend": 1115.4299999999998,
+      "revenue": 2429.58,
+      "conversions": 38
+    },
+    {
+      "date": "2026-05-21",
+      "channel": "Meta Ads",
+      "spend": 696.0899999999999,
+      "revenue": 1957.3999999999999,
+      "conversions": 30
+    },
+    {
+      "date": "2026-05-21",
+      "channel": "Programmatic Display",
+      "spend": 671.9300000000001,
+      "revenue": 556.1800000000001,
+      "conversions": 11
+    },
+    {
+      "date": "2026-05-21",
+      "channel": "TikTok Ads",
+      "spend": 501.64,
+      "revenue": 746.67,
+      "conversions": 18
+    },
+    {
+      "date": "2026-05-22",
+      "channel": "Google Ads",
+      "spend": 1996.47,
+      "revenue": 3463.66,
+      "conversions": 62
+    },
+    {
+      "date": "2026-05-22",
+      "channel": "Meta Ads",
+      "spend": 956.01,
+      "revenue": 1496.6,
+      "conversions": 26
+    },
+    {
+      "date": "2026-05-22",
+      "channel": "Programmatic Display",
+      "spend": 1106.49,
+      "revenue": 775.1099999999999,
+      "conversions": 15
+    },
+    {
+      "date": "2026-05-22",
+      "channel": "TikTok Ads",
+      "spend": 328.64,
+      "revenue": 439.0,
+      "conversions": 8
+    },
+    {
+      "date": "2026-05-23",
+      "channel": "Google Ads",
+      "spend": 1014.49,
+      "revenue": 1578.92,
+      "conversions": 25
+    },
+    {
+      "date": "2026-05-23",
+      "channel": "Meta Ads",
+      "spend": 737.07,
+      "revenue": 1257.8000000000002,
+      "conversions": 22
+    },
+    {
+      "date": "2026-05-23",
+      "channel": "Programmatic Display",
+      "spend": 735.3599999999999,
+      "revenue": 938.57,
+      "conversions": 16
+    },
+    {
+      "date": "2026-05-23",
+      "channel": "TikTok Ads",
+      "spend": 303.43,
+      "revenue": 373.17,
+      "conversions": 7
+    },
+    {
+      "date": "2026-05-24",
+      "channel": "Google Ads",
+      "spend": 1074.38,
+      "revenue": 1982.63,
+      "conversions": 28
+    },
+    {
+      "date": "2026-05-24",
+      "channel": "Meta Ads",
+      "spend": 732.37,
+      "revenue": 1059.87,
+      "conversions": 16
+    },
+    {
+      "date": "2026-05-24",
+      "channel": "Programmatic Display",
+      "spend": 861.78,
+      "revenue": 657.62,
+      "conversions": 13
+    },
+    {
+      "date": "2026-05-24",
+      "channel": "TikTok Ads",
+      "spend": 503.49,
+      "revenue": 692.72,
+      "conversions": 12
+    },
+    {
+      "date": "2026-05-25",
+      "channel": "Google Ads",
+      "spend": 877.4200000000001,
+      "revenue": 1544.6599999999999,
+      "conversions": 21
+    },
+    {
+      "date": "2026-05-25",
+      "channel": "Meta Ads",
+      "spend": 905.48,
+      "revenue": 1404.5900000000001,
+      "conversions": 25
+    },
+    {
+      "date": "2026-05-25",
+      "channel": "Programmatic Display",
+      "spend": 920.1200000000001,
+      "revenue": 1115.07,
+      "conversions": 21
+    },
+    {
+      "date": "2026-05-25",
+      "channel": "TikTok Ads",
+      "spend": 461.0,
+      "revenue": 982.98,
+      "conversions": 22
+    },
+    {
+      "date": "2026-05-26",
+      "channel": "Google Ads",
+      "spend": 772.62,
+      "revenue": 1323.3899999999999,
+      "conversions": 22
+    },
+    {
+      "date": "2026-05-26",
+      "channel": "Meta Ads",
+      "spend": 794.8,
+      "revenue": 935.29,
+      "conversions": 19
+    },
+    {
+      "date": "2026-05-26",
+      "channel": "Programmatic Display",
+      "spend": 888.25,
+      "revenue": 949.52,
+      "conversions": 18
+    },
+    {
+      "date": "2026-05-26",
+      "channel": "TikTok Ads",
+      "spend": 586.7,
+      "revenue": 693.63,
+      "conversions": 18
+    },
+    {
+      "date": "2026-05-27",
+      "channel": "Google Ads",
+      "spend": 1112.35,
+      "revenue": 2173.76,
+      "conversions": 28
+    },
+    {
+      "date": "2026-05-27",
+      "channel": "Meta Ads",
+      "spend": 866.14,
+      "revenue": 1400.8899999999999,
+      "conversions": 22
+    },
+    {
+      "date": "2026-05-27",
+      "channel": "Programmatic Display",
+      "spend": 833.6800000000001,
+      "revenue": 582.34,
+      "conversions": 11
+    },
+    {
+      "date": "2026-05-27",
+      "channel": "TikTok Ads",
+      "spend": 328.27,
+      "revenue": 362.42,
+      "conversions": 7
+    },
+    {
+      "date": "2026-05-28",
+      "channel": "Google Ads",
+      "spend": 986.11,
+      "revenue": 2341.01,
+      "conversions": 35
+    },
+    {
+      "date": "2026-05-28",
+      "channel": "Meta Ads",
+      "spend": 685.54,
+      "revenue": 1336.98,
+      "conversions": 24
+    },
+    {
+      "date": "2026-05-28",
+      "channel": "Programmatic Display",
+      "spend": 880.5,
+      "revenue": 810.97,
+      "conversions": 14
+    },
+    {
+      "date": "2026-05-28",
+      "channel": "TikTok Ads",
+      "spend": 718.82,
+      "revenue": 919.88,
+      "conversions": 22
+    },
+    {
+      "date": "2026-05-29",
+      "channel": "Google Ads",
+      "spend": 1736.8400000000001,
+      "revenue": 3418.8700000000003,
+      "conversions": 47
+    },
+    {
+      "date": "2026-05-29",
+      "channel": "Meta Ads",
+      "spend": 938.51,
+      "revenue": 1356.43,
+      "conversions": 26
+    },
+    {
+      "date": "2026-05-29",
+      "channel": "Programmatic Display",
+      "spend": 687.97,
+      "revenue": 870.5400000000001,
+      "conversions": 14
+    },
+    {
+      "date": "2026-05-29",
+      "channel": "TikTok Ads",
+      "spend": 689.3,
+      "revenue": 858.46,
+      "conversions": 17
+    },
+    {
+      "date": "2026-05-30",
+      "channel": "Google Ads",
+      "spend": 1193.73,
+      "revenue": 3164.2200000000003,
+      "conversions": 42
+    },
+    {
+      "date": "2026-05-30",
+      "channel": "Meta Ads",
+      "spend": 558.2,
+      "revenue": 922.4100000000001,
+      "conversions": 16
+    },
+    {
+      "date": "2026-05-30",
+      "channel": "Programmatic Display",
+      "spend": 1042.18,
+      "revenue": 734.29,
+      "conversions": 14
+    },
+    {
+      "date": "2026-05-30",
+      "channel": "TikTok Ads",
+      "spend": 291.57,
+      "revenue": 523.22,
+      "conversions": 9
+    },
+    {
+      "date": "2026-05-31",
+      "channel": "Google Ads",
+      "spend": 1165.45,
+      "revenue": 2386.26,
+      "conversions": 31
+    },
+    {
+      "date": "2026-05-31",
+      "channel": "Meta Ads",
+      "spend": 1051.9,
+      "revenue": 1621.21,
+      "conversions": 31
+    },
+    {
+      "date": "2026-05-31",
+      "channel": "Programmatic Display",
+      "spend": 647.79,
+      "revenue": 687.56,
+      "conversions": 13
+    },
+    {
+      "date": "2026-05-31",
+      "channel": "TikTok Ads",
+      "spend": 531.4,
+      "revenue": 1188.03,
+      "conversions": 19
+    },
+    {
+      "date": "2026-06-01",
+      "channel": "Google Ads",
+      "spend": 1775.8400000000001,
+      "revenue": 3714.38,
+      "conversions": 57
+    },
+    {
+      "date": "2026-06-01",
+      "channel": "Meta Ads",
+      "spend": 1411.94,
+      "revenue": 2591.76,
+      "conversions": 38
+    },
+    {
+      "date": "2026-06-01",
+      "channel": "Programmatic Display",
+      "spend": 1041.27,
+      "revenue": 1389.82,
+      "conversions": 22
+    },
+    {
+      "date": "2026-06-01",
+      "channel": "TikTok Ads",
+      "spend": 249.38,
+      "revenue": 426.53,
+      "conversions": 10
+    },
+    {
+      "date": "2026-06-02",
+      "channel": "Google Ads",
+      "spend": 1248.94,
+      "revenue": 2996.79,
+      "conversions": 43
+    },
+    {
+      "date": "2026-06-02",
+      "channel": "Meta Ads",
+      "spend": 926.6700000000001,
+      "revenue": 1734.92,
+      "conversions": 28
+    },
+    {
+      "date": "2026-06-02",
+      "channel": "Programmatic Display",
+      "spend": 1007.75,
+      "revenue": 968.72,
+      "conversions": 20
+    },
+    {
+      "date": "2026-06-02",
+      "channel": "TikTok Ads",
+      "spend": 600.97,
+      "revenue": 1139.54,
+      "conversions": 22
+    },
+    {
+      "date": "2026-06-03",
+      "channel": "Google Ads",
+      "spend": 794.01,
+      "revenue": 1543.1200000000001,
+      "conversions": 24
+    },
+    {
+      "date": "2026-06-03",
+      "channel": "Meta Ads",
+      "spend": 547.2,
+      "revenue": 1215.19,
+      "conversions": 21
+    },
+    {
+      "date": "2026-06-03",
+      "channel": "Programmatic Display",
+      "spend": 940.36,
+      "revenue": 564.0,
+      "conversions": 11
+    },
+    {
+      "date": "2026-06-03",
+      "channel": "TikTok Ads",
+      "spend": 409.7,
+      "revenue": 639.44,
+      "conversions": 12
+    },
+    {
+      "date": "2026-06-04",
+      "channel": "Google Ads",
+      "spend": 1522.06,
+      "revenue": 3217.34,
+      "conversions": 43
+    },
+    {
+      "date": "2026-06-04",
+      "channel": "Meta Ads",
+      "spend": 1342.75,
+      "revenue": 1752.44,
+      "conversions": 25
+    },
+    {
+      "date": "2026-06-04",
+      "channel": "Programmatic Display",
+      "spend": 1000.98,
+      "revenue": 745.14,
+      "conversions": 16
+    },
+    {
+      "date": "2026-06-04",
+      "channel": "TikTok Ads",
+      "spend": 301.82,
+      "revenue": 510.26,
+      "conversions": 10
+    },
+    {
+      "date": "2026-06-05",
+      "channel": "Google Ads",
+      "spend": 1430.28,
+      "revenue": 2735.1899999999996,
+      "conversions": 40
+    },
+    {
+      "date": "2026-06-05",
+      "channel": "Meta Ads",
+      "spend": 1276.53,
+      "revenue": 1950.82,
+      "conversions": 33
+    },
+    {
+      "date": "2026-06-05",
+      "channel": "Programmatic Display",
+      "spend": 566.61,
+      "revenue": 490.46,
+      "conversions": 9
+    },
+    {
+      "date": "2026-06-05",
+      "channel": "TikTok Ads",
+      "spend": 660.3,
+      "revenue": 561.63,
+      "conversions": 11
+    },
+    {
+      "date": "2026-06-06",
+      "channel": "Google Ads",
+      "spend": 2092.37,
+      "revenue": 4477.21,
+      "conversions": 61
+    },
+    {
+      "date": "2026-06-06",
+      "channel": "Meta Ads",
+      "spend": 1273.25,
+      "revenue": 2698.66,
+      "conversions": 48
+    },
+    {
+      "date": "2026-06-06",
+      "channel": "Programmatic Display",
+      "spend": 800.1999999999999,
+      "revenue": 758.83,
+      "conversions": 14
+    },
+    {
+      "date": "2026-06-06",
+      "channel": "TikTok Ads",
+      "spend": 654.45,
+      "revenue": 1213.19,
+      "conversions": 23
+    },
+    {
+      "date": "2026-06-07",
+      "channel": "Google Ads",
+      "spend": 1236.13,
+      "revenue": 2150.37,
+      "conversions": 34
+    },
+    {
+      "date": "2026-06-07",
+      "channel": "Meta Ads",
+      "spend": 964.11,
+      "revenue": 1919.33,
+      "conversions": 29
+    },
+    {
+      "date": "2026-06-07",
+      "channel": "Programmatic Display",
+      "spend": 833.71,
+      "revenue": 746.53,
+      "conversions": 15
+    },
+    {
+      "date": "2026-06-07",
+      "channel": "TikTok Ads",
+      "spend": 525.73,
+      "revenue": 778.02,
+      "conversions": 20
+    },
+    {
+      "date": "2026-06-08",
+      "channel": "Google Ads",
+      "spend": 1243.33,
+      "revenue": 3122.08,
+      "conversions": 46
+    },
+    {
+      "date": "2026-06-08",
+      "channel": "Meta Ads",
+      "spend": 981.72,
+      "revenue": 2067.75,
+      "conversions": 31
+    },
+    {
+      "date": "2026-06-08",
+      "channel": "Programmatic Display",
+      "spend": 848.04,
+      "revenue": 725.2,
+      "conversions": 15
+    },
+    {
+      "date": "2026-06-08",
+      "channel": "TikTok Ads",
+      "spend": 417.84,
+      "revenue": 1013.76,
+      "conversions": 20
+    },
+    {
+      "date": "2026-06-09",
+      "channel": "Google Ads",
+      "spend": 853.38,
+      "revenue": 1816.86,
+      "conversions": 26
+    },
+    {
+      "date": "2026-06-09",
+      "channel": "Meta Ads",
+      "spend": 675.68,
+      "revenue": 1142.96,
+      "conversions": 19
+    },
+    {
+      "date": "2026-06-09",
+      "channel": "Programmatic Display",
+      "spend": 1222.3500000000001,
+      "revenue": 1677.79,
+      "conversions": 30
+    },
+    {
+      "date": "2026-06-09",
+      "channel": "TikTok Ads",
+      "spend": 292.84,
+      "revenue": 264.51,
+      "conversions": 6
+    },
+    {
+      "date": "2026-06-10",
+      "channel": "Google Ads",
+      "spend": 707.6800000000001,
+      "revenue": 1668.56,
+      "conversions": 21
+    },
+    {
+      "date": "2026-06-10",
+      "channel": "Meta Ads",
+      "spend": 781.36,
+      "revenue": 1481.27,
+      "conversions": 22
+    },
+    {
+      "date": "2026-06-10",
+      "channel": "Programmatic Display",
+      "spend": 968.13,
+      "revenue": 1209.85,
+      "conversions": 22
+    },
+    {
+      "date": "2026-06-10",
+      "channel": "TikTok Ads",
+      "spend": 193.74,
+      "revenue": 252.85,
+      "conversions": 5
+    },
+    {
+      "date": "2026-06-11",
+      "channel": "Google Ads",
+      "spend": 1168.13,
+      "revenue": 2073.18,
+      "conversions": 34
+    },
+    {
+      "date": "2026-06-11",
+      "channel": "Meta Ads",
+      "spend": 515.18,
+      "revenue": 1282.76,
+      "conversions": 21
+    },
+    {
+      "date": "2026-06-11",
+      "channel": "Programmatic Display",
+      "spend": 1116.6599999999999,
+      "revenue": 752.3199999999999,
+      "conversions": 13
+    },
+    {
+      "date": "2026-06-11",
+      "channel": "TikTok Ads",
+      "spend": 297.67,
+      "revenue": 505.41,
+      "conversions": 11
+    },
+    {
+      "date": "2026-06-12",
+      "channel": "Google Ads",
+      "spend": 1760.19,
+      "revenue": 3981.79,
+      "conversions": 56
+    },
+    {
+      "date": "2026-06-12",
+      "channel": "Meta Ads",
+      "spend": 1161.8200000000002,
+      "revenue": 1934.24,
+      "conversions": 37
+    },
+    {
+      "date": "2026-06-12",
+      "channel": "Programmatic Display",
+      "spend": 995.1099999999999,
+      "revenue": 905.35,
+      "conversions": 15
+    },
+    {
+      "date": "2026-06-12",
+      "channel": "TikTok Ads",
+      "spend": 659.79,
+      "revenue": 843.39,
+      "conversions": 18
+    },
+    {
+      "date": "2026-06-13",
+      "channel": "Google Ads",
+      "spend": 940.5,
+      "revenue": 2521.78,
+      "conversions": 35
+    },
+    {
+      "date": "2026-06-13",
+      "channel": "Meta Ads",
+      "spend": 938.1199999999999,
+      "revenue": 1503.74,
+      "conversions": 27
+    },
+    {
+      "date": "2026-06-13",
+      "channel": "Programmatic Display",
+      "spend": 1115.65,
+      "revenue": 1031.83,
+      "conversions": 20
+    },
+    {
+      "date": "2026-06-13",
+      "channel": "TikTok Ads",
+      "spend": 546.02,
+      "revenue": 894.63,
+      "conversions": 16
+    },
+    {
+      "date": "2026-06-14",
+      "channel": "Google Ads",
+      "spend": 1144.01,
+      "revenue": 3313.71,
+      "conversions": 41
+    },
+    {
+      "date": "2026-06-14",
+      "channel": "Meta Ads",
+      "spend": 1041.9299999999998,
+      "revenue": 1872.8400000000001,
+      "conversions": 31
+    },
+    {
+      "date": "2026-06-14",
+      "channel": "Programmatic Display",
+      "spend": 1285.43,
+      "revenue": 1158.82,
+      "conversions": 26
+    },
+    {
+      "date": "2026-06-14",
+      "channel": "TikTok Ads",
+      "spend": 644.6,
+      "revenue": 977.59,
+      "conversions": 23
+    },
+    {
+      "date": "2026-06-15",
+      "channel": "Google Ads",
+      "spend": 1295.19,
+      "revenue": 3035.85,
+      "conversions": 51
+    },
+    {
+      "date": "2026-06-15",
+      "channel": "Meta Ads",
+      "spend": 562.85,
+      "revenue": 806.14,
+      "conversions": 15
+    },
+    {
+      "date": "2026-06-15",
+      "channel": "Programmatic Display",
+      "spend": 782.53,
+      "revenue": 858.8,
+      "conversions": 16
+    },
+    {
+      "date": "2026-06-15",
+      "channel": "TikTok Ads",
+      "spend": 544.35,
+      "revenue": 728.82,
+      "conversions": 13
+    },
+    {
+      "date": "2026-06-16",
+      "channel": "Google Ads",
+      "spend": 1664.47,
+      "revenue": 3783.6000000000004,
+      "conversions": 62
+    },
+    {
+      "date": "2026-06-16",
+      "channel": "Meta Ads",
+      "spend": 973.39,
+      "revenue": 2258.08,
+      "conversions": 35
+    },
+    {
+      "date": "2026-06-16",
+      "channel": "Programmatic Display",
+      "spend": 659.37,
+      "revenue": 584.79,
+      "conversions": 11
+    },
+    {
+      "date": "2026-06-16",
+      "channel": "TikTok Ads",
+      "spend": 314.09,
+      "revenue": 394.5,
+      "conversions": 9
+    },
+    {
+      "date": "2026-06-17",
+      "channel": "Google Ads",
+      "spend": 1182.64,
+      "revenue": 1678.77,
+      "conversions": 23
+    },
+    {
+      "date": "2026-06-17",
+      "channel": "Meta Ads",
+      "spend": 1169.29,
+      "revenue": 2206.06,
+      "conversions": 40
+    },
+    {
+      "date": "2026-06-17",
+      "channel": "Programmatic Display",
+      "spend": 481.06999999999994,
+      "revenue": 594.66,
+      "conversions": 11
+    },
+    {
+      "date": "2026-06-17",
+      "channel": "TikTok Ads",
+      "spend": 413.67,
+      "revenue": 428.1,
+      "conversions": 9
+    },
+    {
+      "date": "2026-06-18",
+      "channel": "Google Ads",
+      "spend": 1045.77,
+      "revenue": 2162.63,
+      "conversions": 31
+    },
+    {
+      "date": "2026-06-18",
+      "channel": "Meta Ads",
+      "spend": 989.21,
+      "revenue": 1746.15,
+      "conversions": 30
+    },
+    {
+      "date": "2026-06-18",
+      "channel": "Programmatic Display",
+      "spend": 1002.46,
+      "revenue": 1098.1599999999999,
+      "conversions": 22
+    },
+    {
+      "date": "2026-06-18",
+      "channel": "TikTok Ads",
+      "spend": 266.75,
+      "revenue": 394.2,
+      "conversions": 8
+    },
+    {
+      "date": "2026-06-19",
+      "channel": "Google Ads",
+      "spend": 1525.14,
+      "revenue": 2008.99,
+      "conversions": 29
+    },
+    {
+      "date": "2026-06-19",
+      "channel": "Meta Ads",
+      "spend": 886.75,
+      "revenue": 1089.82,
+      "conversions": 18
+    },
+    {
+      "date": "2026-06-19",
+      "channel": "Programmatic Display",
+      "spend": 828.4000000000001,
+      "revenue": 833.3499999999999,
+      "conversions": 16
+    },
+    {
+      "date": "2026-06-19",
+      "channel": "TikTok Ads",
+      "spend": 379.92,
+      "revenue": 783.72,
+      "conversions": 15
+    },
+    {
+      "date": "2026-06-20",
+      "channel": "Google Ads",
+      "spend": 1480.5900000000001,
+      "revenue": 3797.01,
+      "conversions": 52
+    },
+    {
+      "date": "2026-06-20",
+      "channel": "Meta Ads",
+      "spend": 1093.23,
+      "revenue": 1499.9,
+      "conversions": 25
+    },
+    {
+      "date": "2026-06-20",
+      "channel": "Programmatic Display",
+      "spend": 1015.0699999999999,
+      "revenue": 878.87,
+      "conversions": 16
+    },
+    {
+      "date": "2026-06-20",
+      "channel": "TikTok Ads",
+      "spend": 531.22,
+      "revenue": 537.0,
+      "conversions": 12
+    },
+    {
+      "date": "2026-06-21",
+      "channel": "Google Ads",
+      "spend": 1595.5700000000002,
+      "revenue": 3067.72,
+      "conversions": 48
+    },
+    {
+      "date": "2026-06-21",
+      "channel": "Meta Ads",
+      "spend": 1130.8400000000001,
+      "revenue": 2316.98,
+      "conversions": 37
+    },
+    {
+      "date": "2026-06-21",
+      "channel": "Programmatic Display",
+      "spend": 1136.2,
+      "revenue": 933.3100000000001,
+      "conversions": 20
+    },
+    {
+      "date": "2026-06-21",
+      "channel": "TikTok Ads",
+      "spend": 413.88,
+      "revenue": 638.66,
+      "conversions": 15
+    },
+    {
+      "date": "2026-06-22",
+      "channel": "Google Ads",
+      "spend": 899.48,
+      "revenue": 1732.6000000000001,
+      "conversions": 26
+    },
+    {
+      "date": "2026-06-22",
+      "channel": "Meta Ads",
+      "spend": 519.4,
+      "revenue": 1112.92,
+      "conversions": 19
+    },
+    {
+      "date": "2026-06-22",
+      "channel": "Programmatic Display",
+      "spend": 1202.07,
+      "revenue": 1393.14,
+      "conversions": 27
+    },
+    {
+      "date": "2026-06-22",
+      "channel": "TikTok Ads",
+      "spend": 564.78,
+      "revenue": 1053.37,
+      "conversions": 21
+    },
+    {
+      "date": "2026-06-23",
+      "channel": "Google Ads",
+      "spend": 1071.71,
+      "revenue": 2225.2,
+      "conversions": 31
+    },
+    {
+      "date": "2026-06-23",
+      "channel": "Meta Ads",
+      "spend": 1002.8199999999999,
+      "revenue": 1532.57,
+      "conversions": 29
+    },
+    {
+      "date": "2026-06-23",
+      "channel": "Programmatic Display",
+      "spend": 467.90999999999997,
+      "revenue": 373.61,
+      "conversions": 8
+    },
+    {
+      "date": "2026-06-23",
+      "channel": "TikTok Ads",
+      "spend": 459.16,
+      "revenue": 727.9,
+      "conversions": 19
+    },
+    {
+      "date": "2026-06-24",
+      "channel": "Google Ads",
+      "spend": 960.06,
+      "revenue": 1358.19,
+      "conversions": 21
+    },
+    {
+      "date": "2026-06-24",
+      "channel": "Meta Ads",
+      "spend": 994.86,
+      "revenue": 1433.17,
+      "conversions": 24
+    },
+    {
+      "date": "2026-06-24",
+      "channel": "Programmatic Display",
+      "spend": 482.71000000000004,
+      "revenue": 462.01,
+      "conversions": 8
+    },
+    {
+      "date": "2026-06-24",
+      "channel": "TikTok Ads",
+      "spend": 340.31,
+      "revenue": 354.21,
+      "conversions": 8
+    },
+    {
+      "date": "2026-06-25",
+      "channel": "Google Ads",
+      "spend": 1599.23,
+      "revenue": 3428.88,
+      "conversions": 51
+    },
+    {
+      "date": "2026-06-25",
+      "channel": "Meta Ads",
+      "spend": 644.76,
+      "revenue": 1624.05,
+      "conversions": 25
+    },
+    {
+      "date": "2026-06-25",
+      "channel": "Programmatic Display",
+      "spend": 601.1,
+      "revenue": 533.3399999999999,
+      "conversions": 10
+    },
+    {
+      "date": "2026-06-25",
+      "channel": "TikTok Ads",
+      "spend": 270.86,
+      "revenue": 443.44,
+      "conversions": 10
+    },
+    {
+      "date": "2026-06-26",
+      "channel": "Google Ads",
+      "spend": 2104.01,
+      "revenue": 4296.05,
+      "conversions": 70
+    },
+    {
+      "date": "2026-06-26",
+      "channel": "Meta Ads",
+      "spend": 930.26,
+      "revenue": 2234.83,
+      "conversions": 39
+    },
+    {
+      "date": "2026-06-26",
+      "channel": "Programmatic Display",
+      "spend": 1009.6099999999999,
+      "revenue": 855.1700000000001,
+      "conversions": 17
+    },
+    {
+      "date": "2026-06-26",
+      "channel": "TikTok Ads",
+      "spend": 573.62,
+      "revenue": 929.21,
+      "conversions": 21
+    },
+    {
+      "date": "2026-06-27",
+      "channel": "Google Ads",
+      "spend": 1885.0700000000002,
+      "revenue": 4526.22,
+      "conversions": 67
+    },
+    {
+      "date": "2026-06-27",
+      "channel": "Meta Ads",
+      "spend": 681.96,
+      "revenue": 903.09,
+      "conversions": 16
+    },
+    {
+      "date": "2026-06-27",
+      "channel": "Programmatic Display",
+      "spend": 703.9,
+      "revenue": 575.61,
+      "conversions": 11
+    },
+    {
+      "date": "2026-06-27",
+      "channel": "TikTok Ads",
+      "spend": 224.64,
+      "revenue": 311.93,
+      "conversions": 7
+    },
+    {
+      "date": "2026-06-28",
+      "channel": "Google Ads",
+      "spend": 1123.55,
+      "revenue": 2863.37,
+      "conversions": 37
+    },
+    {
+      "date": "2026-06-28",
+      "channel": "Meta Ads",
+      "spend": 1159.1999999999998,
+      "revenue": 1666.6799999999998,
+      "conversions": 31
+    },
+    {
+      "date": "2026-06-28",
+      "channel": "Programmatic Display",
+      "spend": 704.04,
+      "revenue": 454.46000000000004,
+      "conversions": 10
+    },
+    {
+      "date": "2026-06-28",
+      "channel": "TikTok Ads",
+      "spend": 341.69,
+      "revenue": 587.49,
+      "conversions": 13
+    },
+    {
+      "date": "2026-06-29",
+      "channel": "Google Ads",
+      "spend": 1320.9299999999998,
+      "revenue": 2741.54,
+      "conversions": 40
+    },
+    {
+      "date": "2026-06-29",
+      "channel": "Meta Ads",
+      "spend": 841.1700000000001,
+      "revenue": 1145.57,
+      "conversions": 21
+    },
+    {
+      "date": "2026-06-29",
+      "channel": "Programmatic Display",
+      "spend": 985.6700000000001,
+      "revenue": 900.63,
+      "conversions": 16
+    },
+    {
+      "date": "2026-06-29",
+      "channel": "TikTok Ads",
+      "spend": 235.74,
+      "revenue": 530.58,
+      "conversions": 11
+    },
+    {
+      "date": "2026-06-30",
+      "channel": "Google Ads",
+      "spend": 1535.48,
+      "revenue": 2839.21,
+      "conversions": 46
+    },
+    {
+      "date": "2026-06-30",
+      "channel": "Meta Ads",
+      "spend": 1075.9099999999999,
+      "revenue": 2235.0299999999997,
+      "conversions": 37
+    },
+    {
+      "date": "2026-06-30",
+      "channel": "Programmatic Display",
+      "spend": 1091.38,
+      "revenue": 960.63,
+      "conversions": 19
+    },
+    {
+      "date": "2026-06-30",
+      "channel": "TikTok Ads",
+      "spend": 703.4,
+      "revenue": 989.94,
+      "conversions": 21
+    },
+    {
+      "date": "2026-07-01",
+      "channel": "Google Ads",
+      "spend": 1882.42,
+      "revenue": 4388.14,
+      "conversions": 69
+    },
+    {
+      "date": "2026-07-01",
+      "channel": "Meta Ads",
+      "spend": 712.8,
+      "revenue": 1140.99,
+      "conversions": 20
+    },
+    {
+      "date": "2026-07-01",
+      "channel": "Programmatic Display",
+      "spend": 1272.59,
+      "revenue": 1851.21,
+      "conversions": 32
+    },
+    {
+      "date": "2026-07-01",
+      "channel": "TikTok Ads",
+      "spend": 228.95,
+      "revenue": 408.67,
+      "conversions": 8
+    },
+    {
+      "date": "2026-07-02",
+      "channel": "Google Ads",
+      "spend": 1952.6999999999998,
+      "revenue": 3558.34,
+      "conversions": 54
+    },
+    {
+      "date": "2026-07-02",
+      "channel": "Meta Ads",
+      "spend": 1120.29,
+      "revenue": 1705.04,
+      "conversions": 28
+    },
+    {
+      "date": "2026-07-02",
+      "channel": "Programmatic Display",
+      "spend": 906.4100000000001,
+      "revenue": 1072.52,
+      "conversions": 20
+    },
+    {
+      "date": "2026-07-02",
+      "channel": "TikTok Ads",
+      "spend": 280.29,
+      "revenue": 416.41,
+      "conversions": 9
+    },
+    {
+      "date": "2026-07-03",
+      "channel": "Google Ads",
+      "spend": 1689.88,
+      "revenue": 2478.96,
+      "conversions": 37
+    },
+    {
+      "date": "2026-07-03",
+      "channel": "Meta Ads",
+      "spend": 992.61,
+      "revenue": 1395.77,
+      "conversions": 22
+    },
+    {
+      "date": "2026-07-03",
+      "channel": "Programmatic Display",
+      "spend": 635.4200000000001,
+      "revenue": 465.54,
+      "conversions": 9
+    },
+    {
+      "date": "2026-07-03",
+      "channel": "TikTok Ads",
+      "spend": 387.51,
+      "revenue": 385.21,
+      "conversions": 9
+    },
+    {
+      "date": "2026-07-04",
+      "channel": "Google Ads",
+      "spend": 1785.1799999999998,
+      "revenue": 3297.46,
+      "conversions": 46
+    },
+    {
+      "date": "2026-07-04",
+      "channel": "Meta Ads",
+      "spend": 550.31,
+      "revenue": 978.21,
+      "conversions": 15
+    },
+    {
+      "date": "2026-07-04",
+      "channel": "Programmatic Display",
+      "spend": 783.77,
+      "revenue": 595.4399999999999,
+      "conversions": 12
+    },
+    {
+      "date": "2026-07-04",
+      "channel": "TikTok Ads",
+      "spend": 604.26,
+      "revenue": 923.72,
+      "conversions": 19
+    },
+    {
+      "date": "2026-07-05",
+      "channel": "Google Ads",
+      "spend": 1359.22,
+      "revenue": 2893.2,
+      "conversions": 42
+    },
+    {
+      "date": "2026-07-05",
+      "channel": "Meta Ads",
+      "spend": 854.22,
+      "revenue": 1038.71,
+      "conversions": 20
+    },
+    {
+      "date": "2026-07-05",
+      "channel": "Programmatic Display",
+      "spend": 754.94,
+      "revenue": 649.0799999999999,
+      "conversions": 11
+    },
+    {
+      "date": "2026-07-05",
+      "channel": "TikTok Ads",
+      "spend": 541.67,
+      "revenue": 604.03,
+      "conversions": 14
+    },
+    {
+      "date": "2026-07-06",
+      "channel": "Google Ads",
+      "spend": 1081.31,
+      "revenue": 2129.05,
+      "conversions": 38
+    },
+    {
+      "date": "2026-07-06",
+      "channel": "Meta Ads",
+      "spend": 836.22,
+      "revenue": 2108.29,
+      "conversions": 33
+    },
+    {
+      "date": "2026-07-06",
+      "channel": "Programmatic Display",
+      "spend": 791.1600000000001,
+      "revenue": 566.83,
+      "conversions": 11
+    },
+    {
+      "date": "2026-07-06",
+      "channel": "TikTok Ads",
+      "spend": 469.02,
+      "revenue": 1192.55,
+      "conversions": 25
+    },
+    {
+      "date": "2026-07-07",
+      "channel": "Google Ads",
+      "spend": 832.22,
+      "revenue": 1690.93,
+      "conversions": 23
+    },
+    {
+      "date": "2026-07-07",
+      "channel": "Meta Ads",
+      "spend": 603.8199999999999,
+      "revenue": 793.36,
+      "conversions": 15
+    },
+    {
+      "date": "2026-07-07",
+      "channel": "Programmatic Display",
+      "spend": 522.4000000000001,
+      "revenue": 463.51,
+      "conversions": 10
+    },
+    {
+      "date": "2026-07-07",
+      "channel": "TikTok Ads",
+      "spend": 276.37,
+      "revenue": 106.69,
+      "conversions": 3
+    },
+    {
+      "date": "2026-07-08",
+      "channel": "Google Ads",
+      "spend": 1121.6,
+      "revenue": 1798.49,
+      "conversions": 27
+    },
+    {
+      "date": "2026-07-08",
+      "channel": "Meta Ads",
+      "spend": 655.3,
+      "revenue": 1094.3899999999999,
+      "conversions": 19
+    },
+    {
+      "date": "2026-07-08",
+      "channel": "Programmatic Display",
+      "spend": 1092.37,
+      "revenue": 1050.54,
+      "conversions": 21
+    },
+    {
+      "date": "2026-07-08",
+      "channel": "TikTok Ads",
+      "spend": 216.32,
+      "revenue": 305.9,
+      "conversions": 7
+    },
+    {
+      "date": "2026-07-09",
+      "channel": "Google Ads",
+      "spend": 1747.81,
+      "revenue": 3176.9300000000003,
+      "conversions": 51
+    },
+    {
+      "date": "2026-07-09",
+      "channel": "Meta Ads",
+      "spend": 1153.5100000000002,
+      "revenue": 2013.44,
+      "conversions": 28
+    },
+    {
+      "date": "2026-07-09",
+      "channel": "Programmatic Display",
+      "spend": 718.8,
+      "revenue": 1246.29,
+      "conversions": 19
+    },
+    {
+      "date": "2026-07-09",
+      "channel": "TikTok Ads",
+      "spend": 437.77,
+      "revenue": 838.17,
+      "conversions": 16
+    },
+    {
+      "date": "2026-07-10",
+      "channel": "Google Ads",
+      "spend": 2249.11,
+      "revenue": 5339.68,
+      "conversions": 75
+    },
+    {
+      "date": "2026-07-10",
+      "channel": "Meta Ads",
+      "spend": 847.81,
+      "revenue": 1109.62,
+      "conversions": 20
+    },
+    {
+      "date": "2026-07-10",
+      "channel": "Programmatic Display",
+      "spend": 824.03,
+      "revenue": 1070.4,
+      "conversions": 21
+    },
+    {
+      "date": "2026-07-10",
+      "channel": "TikTok Ads",
+      "spend": 695.82,
+      "revenue": 1344.89,
+      "conversions": 27
+    },
+    {
+      "date": "2026-07-11",
+      "channel": "Google Ads",
+      "spend": 1543.01,
+      "revenue": 2808.34,
+      "conversions": 40
+    },
+    {
+      "date": "2026-07-11",
+      "channel": "Meta Ads",
+      "spend": 1232.83,
+      "revenue": 1845.25,
+      "conversions": 36
+    },
+    {
+      "date": "2026-07-11",
+      "channel": "Programmatic Display",
+      "spend": 930.04,
+      "revenue": 1246.58,
+      "conversions": 23
+    },
+    {
+      "date": "2026-07-11",
+      "channel": "TikTok Ads",
+      "spend": 460.7,
+      "revenue": 640.72,
+      "conversions": 13
+    },
+    {
+      "date": "2026-07-12",
+      "channel": "Google Ads",
+      "spend": 1655.6799999999998,
+      "revenue": 5107.46,
+      "conversions": 72
+    },
+    {
+      "date": "2026-07-12",
+      "channel": "Meta Ads",
+      "spend": 1123.19,
+      "revenue": 1720.21,
+      "conversions": 32
+    },
+    {
+      "date": "2026-07-12",
+      "channel": "Programmatic Display",
+      "spend": 776.89,
+      "revenue": 957.7,
+      "conversions": 16
+    },
+    {
+      "date": "2026-07-12",
+      "channel": "TikTok Ads",
+      "spend": 506.44,
+      "revenue": 647.32,
+      "conversions": 13
+    },
+    {
+      "date": "2026-07-13",
+      "channel": "Google Ads",
+      "spend": 1170.01,
+      "revenue": 2486.57,
+      "conversions": 38
+    },
+    {
+      "date": "2026-07-13",
+      "channel": "Meta Ads",
+      "spend": 1062.09,
+      "revenue": 1500.67,
+      "conversions": 28
+    },
+    {
+      "date": "2026-07-13",
+      "channel": "Programmatic Display",
+      "spend": 921.3499999999999,
+      "revenue": 718.8199999999999,
+      "conversions": 14
+    },
+    {
+      "date": "2026-07-13",
+      "channel": "TikTok Ads",
+      "spend": 339.8,
+      "revenue": 449.31,
+      "conversions": 9
+    },
+    {
+      "date": "2026-07-14",
+      "channel": "Google Ads",
+      "spend": 1350.5,
+      "revenue": 2269.42,
+      "conversions": 46
+    },
+    {
+      "date": "2026-07-14",
+      "channel": "Meta Ads",
+      "spend": 604.89,
+      "revenue": 957.3799999999999,
+      "conversions": 20
+    },
+    {
+      "date": "2026-07-14",
+      "channel": "Programmatic Display",
+      "spend": 901.01,
+      "revenue": 663.23,
+      "conversions": 14
+    },
+    {
+      "date": "2026-07-14",
+      "channel": "TikTok Ads",
+      "spend": 387.1,
+      "revenue": 475.59,
+      "conversions": 10
+    },
+    {
+      "date": "2026-07-15",
+      "channel": "Google Ads",
+      "spend": 1508.91,
+      "revenue": 2560.83,
+      "conversions": 41
+    },
+    {
+      "date": "2026-07-15",
+      "channel": "Meta Ads",
+      "spend": 583.01,
+      "revenue": 821.22,
+      "conversions": 15
+    },
+    {
+      "date": "2026-07-15",
+      "channel": "Programmatic Display",
+      "spend": 541.2,
+      "revenue": 588.77,
+      "conversions": 11
+    },
+    {
+      "date": "2026-07-15",
+      "channel": "TikTok Ads",
+      "spend": 329.03,
+      "revenue": 584.83,
+      "conversions": 11
+    },
+    {
+      "date": "2026-07-16",
+      "channel": "Google Ads",
+      "spend": 1824.8400000000001,
+      "revenue": 4115.84,
+      "conversions": 60
+    },
+    {
+      "date": "2026-07-16",
+      "channel": "Meta Ads",
+      "spend": 564.43,
+      "revenue": 720.53,
+      "conversions": 13
+    },
+    {
+      "date": "2026-07-16",
+      "channel": "Programmatic Display",
+      "spend": 769.13,
+      "revenue": 726.24,
+      "conversions": 13
+    },
+    {
+      "date": "2026-07-16",
+      "channel": "TikTok Ads",
+      "spend": 239.01,
+      "revenue": 287.87,
+      "conversions": 6
+    },
+    {
+      "date": "2026-07-17",
+      "channel": "Google Ads",
+      "spend": 1634.63,
+      "revenue": 2495.44,
+      "conversions": 43
+    },
+    {
+      "date": "2026-07-17",
+      "channel": "Meta Ads",
+      "spend": 1037.58,
+      "revenue": 1559.27,
+      "conversions": 32
+    },
+    {
+      "date": "2026-07-17",
+      "channel": "Programmatic Display",
+      "spend": 1058.1399999999999,
+      "revenue": 712.69,
+      "conversions": 15
+    },
+    {
+      "date": "2026-07-17",
+      "channel": "TikTok Ads",
+      "spend": 679.89,
+      "revenue": 734.82,
+      "conversions": 14
+    },
+    {
+      "date": "2026-07-18",
+      "channel": "Google Ads",
+      "spend": 1457.72,
+      "revenue": 1919.3,
+      "conversions": 30
+    },
+    {
+      "date": "2026-07-18",
+      "channel": "Meta Ads",
+      "spend": 891.6299999999999,
+      "revenue": 1876.1999999999998,
+      "conversions": 30
+    },
+    {
+      "date": "2026-07-18",
+      "channel": "Programmatic Display",
+      "spend": 713.35,
+      "revenue": 788.9,
+      "conversions": 13
+    },
+    {
+      "date": "2026-07-18",
+      "channel": "TikTok Ads",
+      "spend": 298.32,
+      "revenue": 418.94,
+      "conversions": 11
+    },
+    {
+      "date": "2026-07-19",
+      "channel": "Google Ads",
+      "spend": 1272.5700000000002,
+      "revenue": 2888.83,
+      "conversions": 47
+    },
+    {
+      "date": "2026-07-19",
+      "channel": "Meta Ads",
+      "spend": 963.29,
+      "revenue": 1912.1200000000001,
+      "conversions": 35
+    },
+    {
+      "date": "2026-07-19",
+      "channel": "Programmatic Display",
+      "spend": 812.06,
+      "revenue": 608.99,
+      "conversions": 12
+    },
+    {
+      "date": "2026-07-19",
+      "channel": "TikTok Ads",
+      "spend": 456.39,
+      "revenue": 475.73,
+      "conversions": 10
+    },
+    {
+      "date": "2026-07-20",
+      "channel": "Google Ads",
+      "spend": 812.23,
+      "revenue": 1566.32,
+      "conversions": 23
+    },
+    {
+      "date": "2026-07-20",
+      "channel": "Meta Ads",
+      "spend": 727.1800000000001,
+      "revenue": 1408.15,
+      "conversions": 25
+    },
+    {
+      "date": "2026-07-20",
+      "channel": "Programmatic Display",
+      "spend": 562.79,
+      "revenue": 314.02,
+      "conversions": 7
+    },
+    {
+      "date": "2026-07-20",
+      "channel": "TikTok Ads",
+      "spend": 725.08,
+      "revenue": 2839.99,
+      "conversions": 54
+    },
+    {
+      "date": "2026-07-21",
+      "channel": "Google Ads",
+      "spend": 1364.7199999999998,
+      "revenue": 2530.35,
+      "conversions": 39
+    },
+    {
+      "date": "2026-07-21",
+      "channel": "Meta Ads",
+      "spend": 494.82,
+      "revenue": 925.89,
+      "conversions": 16
+    },
+    {
+      "date": "2026-07-21",
+      "channel": "Programmatic Display",
+      "spend": 1006.94,
+      "revenue": 785.3900000000001,
+      "conversions": 14
+    },
+    {
+      "date": "2026-07-21",
+      "channel": "TikTok Ads",
+      "spend": 734.4,
+      "revenue": 1003.3,
+      "conversions": 18
+    },
+    {
+      "date": "2026-07-22",
+      "channel": "Google Ads",
+      "spend": 754.75,
+      "revenue": 2361.9,
+      "conversions": 30
+    },
+    {
+      "date": "2026-07-22",
+      "channel": "Meta Ads",
+      "spend": 776.06,
+      "revenue": 595.1800000000001,
+      "conversions": 14
+    },
+    {
+      "date": "2026-07-22",
+      "channel": "Programmatic Display",
+      "spend": 882.6200000000001,
+      "revenue": 543.76,
+      "conversions": 11
+    },
+    {
+      "date": "2026-07-22",
+      "channel": "TikTok Ads",
+      "spend": 418.72,
+      "revenue": 724.64,
+      "conversions": 14
+    },
+    {
+      "date": "2026-07-23",
+      "channel": "Google Ads",
+      "spend": 1008.61,
+      "revenue": 1849.7,
+      "conversions": 26
+    },
+    {
+      "date": "2026-07-23",
+      "channel": "Meta Ads",
+      "spend": 968.54,
+      "revenue": 1380.83,
+      "conversions": 26
+    },
+    {
+      "date": "2026-07-23",
+      "channel": "Programmatic Display",
+      "spend": 1126.98,
+      "revenue": 1113.54,
+      "conversions": 20
+    },
+    {
+      "date": "2026-07-23",
+      "channel": "TikTok Ads",
+      "spend": 703.23,
+      "revenue": 928.75,
+      "conversions": 19
+    },
+    {
+      "date": "2026-07-24",
+      "channel": "Google Ads",
+      "spend": 1600.81,
+      "revenue": 2830.02,
+      "conversions": 42
+    },
+    {
+      "date": "2026-07-24",
+      "channel": "Meta Ads",
+      "spend": 1353.99,
+      "revenue": 2305.69,
+      "conversions": 36
+    },
+    {
+      "date": "2026-07-24",
+      "channel": "Programmatic Display",
+      "spend": 1270.31,
+      "revenue": 1241.37,
+      "conversions": 23
+    },
+    {
+      "date": "2026-07-24",
+      "channel": "TikTok Ads",
+      "spend": 565.27,
+      "revenue": 804.2,
+      "conversions": 15
+    },
+    {
+      "date": "2026-07-25",
+      "channel": "Google Ads",
+      "spend": 1569.51,
+      "revenue": 2952.35,
+      "conversions": 43
+    },
+    {
+      "date": "2026-07-25",
+      "channel": "Meta Ads",
+      "spend": 1058.22,
+      "revenue": 2385.2,
+      "conversions": 39
+    },
+    {
+      "date": "2026-07-25",
+      "channel": "Programmatic Display",
+      "spend": 873.4599999999999,
+      "revenue": 756.74,
+      "conversions": 14
+    },
+    {
+      "date": "2026-07-25",
+      "channel": "TikTok Ads",
+      "spend": 496.77,
+      "revenue": 1097.46,
+      "conversions": 23
+    },
+    {
+      "date": "2026-07-26",
+      "channel": "Google Ads",
+      "spend": 1867.65,
+      "revenue": 3524.2,
+      "conversions": 52
+    },
+    {
+      "date": "2026-07-26",
+      "channel": "Meta Ads",
+      "spend": 668.8,
+      "revenue": 1142.8,
+      "conversions": 18
+    },
+    {
+      "date": "2026-07-26",
+      "channel": "Programmatic Display",
+      "spend": 927.61,
+      "revenue": 678.49,
+      "conversions": 12
+    },
+    {
+      "date": "2026-07-26",
+      "channel": "TikTok Ads",
+      "spend": 213.83,
+      "revenue": 424.27,
+      "conversions": 9
+    },
+    {
+      "date": "2026-07-27",
+      "channel": "Google Ads",
+      "spend": 711.1800000000001,
+      "revenue": 1416.3600000000001,
+      "conversions": 21
+    },
+    {
+      "date": "2026-07-27",
+      "channel": "Meta Ads",
+      "spend": 543.73,
+      "revenue": 780.48,
+      "conversions": 16
+    },
+    {
+      "date": "2026-07-27",
+      "channel": "Programmatic Display",
+      "spend": 706.77,
+      "revenue": 568.79,
+      "conversions": 11
+    },
+    {
+      "date": "2026-07-27",
+      "channel": "TikTok Ads",
+      "spend": 587.19,
+      "revenue": 989.8,
+      "conversions": 20
+    },
+    {
+      "date": "2026-07-28",
+      "channel": "Google Ads",
+      "spend": 1244.26,
+      "revenue": 2972.49,
+      "conversions": 40
+    },
+    {
+      "date": "2026-07-28",
+      "channel": "Meta Ads",
+      "spend": 757.29,
+      "revenue": 2014.82,
+      "conversions": 31
+    },
+    {
+      "date": "2026-07-28",
+      "channel": "Programmatic Display",
+      "spend": 871.24,
+      "revenue": 538.38,
+      "conversions": 11
+    },
+    {
+      "date": "2026-07-28",
+      "channel": "TikTok Ads",
+      "spend": 290.85,
+      "revenue": 541.26,
+      "conversions": 12
+    },
+    {
+      "date": "2026-07-29",
+      "channel": "Google Ads",
+      "spend": 993.64,
+      "revenue": 2077.84,
+      "conversions": 30
+    },
+    {
+      "date": "2026-07-29",
+      "channel": "Meta Ads",
+      "spend": 826.98,
+      "revenue": 1461.8400000000001,
+      "conversions": 26
+    },
+    {
+      "date": "2026-07-29",
+      "channel": "Programmatic Display",
+      "spend": 1340.44,
+      "revenue": 1140.08,
+      "conversions": 23
+    },
+    {
+      "date": "2026-07-29",
+      "channel": "TikTok Ads",
+      "spend": 470.6,
+      "revenue": 567.4,
+      "conversions": 11
+    },
+    {
+      "date": "2026-07-30",
+      "channel": "Google Ads",
+      "spend": 1115.87,
+      "revenue": 2174.4,
+      "conversions": 33
+    },
+    {
+      "date": "2026-07-30",
+      "channel": "Meta Ads",
+      "spend": 1040.6599999999999,
+      "revenue": 1940.17,
+      "conversions": 34
+    },
+    {
+      "date": "2026-07-30",
+      "channel": "Programmatic Display",
+      "spend": 775.49,
+      "revenue": 962.93,
+      "conversions": 16
+    },
+    {
+      "date": "2026-07-30",
+      "channel": "TikTok Ads",
+      "spend": 426.7,
+      "revenue": 797.74,
+      "conversions": 15
+    },
+    {
+      "date": "2026-07-31",
+      "channel": "Google Ads",
+      "spend": 1390.94,
+      "revenue": 3205.0,
+      "conversions": 42
+    },
+    {
+      "date": "2026-07-31",
+      "channel": "Meta Ads",
+      "spend": 1002.09,
+      "revenue": 2014.43,
+      "conversions": 34
+    },
+    {
+      "date": "2026-07-31",
+      "channel": "Programmatic Display",
+      "spend": 1609.83,
+      "revenue": 1627.32,
+      "conversions": 33
+    },
+    {
+      "date": "2026-07-31",
+      "channel": "TikTok Ads",
+      "spend": 274.13,
+      "revenue": 508.58,
+      "conversions": 10
+    },
+    {
+      "date": "2026-08-01",
+      "channel": "Google Ads",
+      "spend": 1413.15,
+      "revenue": 3062.72,
+      "conversions": 44
+    },
+    {
+      "date": "2026-08-01",
+      "channel": "Meta Ads",
+      "spend": 1224.44,
+      "revenue": 2681.71,
+      "conversions": 49
+    },
+    {
+      "date": "2026-08-01",
+      "channel": "Programmatic Display",
+      "spend": 1361.72,
+      "revenue": 1072.56,
+      "conversions": 21
+    },
+    {
+      "date": "2026-08-01",
+      "channel": "TikTok Ads",
+      "spend": 692.42,
+      "revenue": 378.93,
+      "conversions": 9
+    },
+    {
+      "date": "2026-08-02",
+      "channel": "Google Ads",
+      "spend": 1573.38,
+      "revenue": 3361.58,
+      "conversions": 45
+    },
+    {
+      "date": "2026-08-02",
+      "channel": "Meta Ads",
+      "spend": 912.96,
+      "revenue": 1159.3200000000002,
+      "conversions": 18
+    },
+    {
+      "date": "2026-08-02",
+      "channel": "Programmatic Display",
+      "spend": 961.3399999999999,
+      "revenue": 747.13,
+      "conversions": 13
+    },
+    {
+      "date": "2026-08-02",
+      "channel": "TikTok Ads",
+      "spend": 815.86,
+      "revenue": 1398.93,
+      "conversions": 31
+    },
+    {
+      "date": "2026-08-03",
+      "channel": "Google Ads",
+      "spend": 1149.44,
+      "revenue": 2160.88,
+      "conversions": 29
+    },
+    {
+      "date": "2026-08-03",
+      "channel": "Meta Ads",
+      "spend": 892.39,
+      "revenue": 1553.57,
+      "conversions": 24
+    },
+    {
+      "date": "2026-08-03",
+      "channel": "Programmatic Display",
+      "spend": 900.51,
+      "revenue": 993.87,
+      "conversions": 18
+    },
+    {
+      "date": "2026-08-03",
+      "channel": "TikTok Ads",
+      "spend": 518.32,
+      "revenue": 508.57,
+      "conversions": 12
+    },
+    {
+      "date": "2026-08-04",
+      "channel": "Google Ads",
+      "spend": 1739.6399999999999,
+      "revenue": 3835.7799999999997,
+      "conversions": 55
+    },
+    {
+      "date": "2026-08-04",
+      "channel": "Meta Ads",
+      "spend": 1042.26,
+      "revenue": 1561.1,
+      "conversions": 27
+    },
+    {
+      "date": "2026-08-04",
+      "channel": "Programmatic Display",
+      "spend": 979.77,
+      "revenue": 1077.69,
+      "conversions": 22
+    },
+    {
+      "date": "2026-08-04",
+      "channel": "TikTok Ads",
+      "spend": 613.71,
+      "revenue": 596.5,
+      "conversions": 13
+    },
+    {
+      "date": "2026-08-05",
+      "channel": "Google Ads",
+      "spend": 1420.17,
+      "revenue": 3635.0,
+      "conversions": 52
+    },
+    {
+      "date": "2026-08-05",
+      "channel": "Meta Ads",
+      "spend": 733.81,
+      "revenue": 1315.49,
+      "conversions": 22
+    },
+    {
+      "date": "2026-08-05",
+      "channel": "Programmatic Display",
+      "spend": 1094.34,
+      "revenue": 1186.69,
+      "conversions": 23
+    },
+    {
+      "date": "2026-08-05",
+      "channel": "TikTok Ads",
+      "spend": 336.85,
+      "revenue": 740.45,
+      "conversions": 14
+    },
+    {
+      "date": "2026-08-06",
+      "channel": "Google Ads",
+      "spend": 1229.12,
+      "revenue": 2150.15,
+      "conversions": 32
+    },
+    {
+      "date": "2026-08-06",
+      "channel": "Meta Ads",
+      "spend": 846.69,
+      "revenue": 1509.3000000000002,
+      "conversions": 25
+    },
+    {
+      "date": "2026-08-06",
+      "channel": "Programmatic Display",
+      "spend": 889.89,
+      "revenue": 695.3199999999999,
+      "conversions": 13
+    },
+    {
+      "date": "2026-08-06",
+      "channel": "TikTok Ads",
+      "spend": 679.55,
+      "revenue": 636.26,
+      "conversions": 14
+    },
+    {
+      "date": "2026-08-07",
+      "channel": "Google Ads",
+      "spend": 1598.27,
+      "revenue": 2525.94,
+      "conversions": 38
+    },
+    {
+      "date": "2026-08-07",
+      "channel": "Meta Ads",
+      "spend": 1213.05,
+      "revenue": 2168.17,
+      "conversions": 37
+    },
+    {
+      "date": "2026-08-07",
+      "channel": "Programmatic Display",
+      "spend": 2068.63,
+      "revenue": 2254.54,
+      "conversions": 46
+    },
+    {
+      "date": "2026-08-07",
+      "channel": "TikTok Ads",
+      "spend": 317.96,
+      "revenue": 429.22,
+      "conversions": 9
+    },
+    {
+      "date": "2026-08-08",
+      "channel": "Google Ads",
+      "spend": 1457.35,
+      "revenue": 2603.96,
+      "conversions": 44
+    },
+    {
+      "date": "2026-08-08",
+      "channel": "Meta Ads",
+      "spend": 989.8499999999999,
+      "revenue": 1421.34,
+      "conversions": 23
+    },
+    {
+      "date": "2026-08-08",
+      "channel": "Programmatic Display",
+      "spend": 1146.8200000000002,
+      "revenue": 1022.46,
+      "conversions": 20
+    },
+    {
+      "date": "2026-08-08",
+      "channel": "TikTok Ads",
+      "spend": 512.7,
+      "revenue": 695.57,
+      "conversions": 16
+    },
+    {
+      "date": "2026-08-09",
+      "channel": "Google Ads",
+      "spend": 1325.3,
+      "revenue": 2837.73,
+      "conversions": 45
+    },
+    {
+      "date": "2026-08-09",
+      "channel": "Meta Ads",
+      "spend": 477.56,
+      "revenue": 1004.57,
+      "conversions": 19
+    },
+    {
+      "date": "2026-08-09",
+      "channel": "Programmatic Display",
+      "spend": 819.76,
+      "revenue": 807.76,
+      "conversions": 16
+    },
+    {
+      "date": "2026-08-09",
+      "channel": "TikTok Ads",
+      "spend": 410.0,
+      "revenue": 505.4,
+      "conversions": 13
+    },
+    {
+      "date": "2026-08-10",
+      "channel": "Google Ads",
+      "spend": 1481.28,
+      "revenue": 3201.2599999999998,
+      "conversions": 47
+    },
+    {
+      "date": "2026-08-10",
+      "channel": "Meta Ads",
+      "spend": 892.4300000000001,
+      "revenue": 1437.5300000000002,
+      "conversions": 29
+    },
+    {
+      "date": "2026-08-10",
+      "channel": "Programmatic Display",
+      "spend": 1023.94,
+      "revenue": 978.1,
+      "conversions": 19
+    },
+    {
+      "date": "2026-08-10",
+      "channel": "TikTok Ads",
+      "spend": 397.4,
+      "revenue": 809.3,
+      "conversions": 15
+    },
+    {
+      "date": "2026-08-11",
+      "channel": "Google Ads",
+      "spend": 1101.93,
+      "revenue": 2568.28,
+      "conversions": 39
+    },
+    {
+      "date": "2026-08-11",
+      "channel": "Meta Ads",
+      "spend": 649.27,
+      "revenue": 1100.39,
+      "conversions": 21
+    },
+    {
+      "date": "2026-08-11",
+      "channel": "Programmatic Display",
+      "spend": 1327.45,
+      "revenue": 1654.93,
+      "conversions": 29
+    },
+    {
+      "date": "2026-08-11",
+      "channel": "TikTok Ads",
+      "spend": 510.12,
+      "revenue": 455.42,
+      "conversions": 10
+    },
+    {
+      "date": "2026-08-12",
+      "channel": "Google Ads",
+      "spend": 1449.7,
+      "revenue": 2068.9300000000003,
+      "conversions": 30
+    },
+    {
+      "date": "2026-08-12",
+      "channel": "Meta Ads",
+      "spend": 1277.55,
+      "revenue": 2260.41,
+      "conversions": 45
+    },
+    {
+      "date": "2026-08-12",
+      "channel": "Programmatic Display",
+      "spend": 948.02,
+      "revenue": 1782.54,
+      "conversions": 30
+    },
+    {
+      "date": "2026-08-12",
+      "channel": "TikTok Ads",
+      "spend": 613.24,
+      "revenue": 658.54,
+      "conversions": 17
+    },
+    {
+      "date": "2026-08-13",
+      "channel": "Google Ads",
+      "spend": 2596.75,
+      "revenue": 5410.26,
+      "conversions": 81
+    },
+    {
+      "date": "2026-08-13",
+      "channel": "Meta Ads",
+      "spend": 1159.63,
+      "revenue": 2540.9300000000003,
+      "conversions": 43
+    },
+    {
+      "date": "2026-08-13",
+      "channel": "Programmatic Display",
+      "spend": 1365.71,
+      "revenue": 1335.79,
+      "conversions": 24
+    },
+    {
+      "date": "2026-08-13",
+      "channel": "TikTok Ads",
+      "spend": 416.02,
+      "revenue": 540.81,
+      "conversions": 14
+    },
+    {
+      "date": "2026-08-14",
+      "channel": "Google Ads",
+      "spend": 1708.34,
+      "revenue": 3759.79,
+      "conversions": 51
+    },
+    {
+      "date": "2026-08-14",
+      "channel": "Meta Ads",
+      "spend": 992.83,
+      "revenue": 1638.16,
+      "conversions": 25
+    },
+    {
+      "date": "2026-08-14",
+      "channel": "Programmatic Display",
+      "spend": 1044.56,
+      "revenue": 798.45,
+      "conversions": 14
+    },
+    {
+      "date": "2026-08-14",
+      "channel": "TikTok Ads",
+      "spend": 494.79,
+      "revenue": 902.13,
+      "conversions": 22
+    },
+    {
+      "date": "2026-08-15",
+      "channel": "Google Ads",
+      "spend": 1326.18,
+      "revenue": 2850.85,
+      "conversions": 41
+    },
+    {
+      "date": "2026-08-15",
+      "channel": "Meta Ads",
+      "spend": 713.9200000000001,
+      "revenue": 952.4399999999999,
+      "conversions": 17
+    },
+    {
+      "date": "2026-08-15",
+      "channel": "Programmatic Display",
+      "spend": 724.37,
+      "revenue": 589.98,
+      "conversions": 12
+    },
+    {
+      "date": "2026-08-15",
+      "channel": "TikTok Ads",
+      "spend": 928.99,
+      "revenue": 1173.12,
+      "conversions": 22
+    },
+    {
+      "date": "2026-08-16",
+      "channel": "Google Ads",
+      "spend": 1165.53,
+      "revenue": 2752.8500000000004,
+      "conversions": 38
+    },
+    {
+      "date": "2026-08-16",
+      "channel": "Meta Ads",
+      "spend": 1099.51,
+      "revenue": 1846.07,
+      "conversions": 31
+    },
+    {
+      "date": "2026-08-16",
+      "channel": "Programmatic Display",
+      "spend": 818.59,
+      "revenue": 815.49,
+      "conversions": 16
+    },
+    {
+      "date": "2026-08-16",
+      "channel": "TikTok Ads",
+      "spend": 346.62,
+      "revenue": 302.21,
+      "conversions": 7
+    },
+    {
+      "date": "2026-08-17",
+      "channel": "Google Ads",
+      "spend": 2260.33,
+      "revenue": 6882.02,
+      "conversions": 94
+    },
+    {
+      "date": "2026-08-17",
+      "channel": "Meta Ads",
+      "spend": 800.45,
+      "revenue": 2007.6100000000001,
+      "conversions": 29
+    },
+    {
+      "date": "2026-08-17",
+      "channel": "Programmatic Display",
+      "spend": 905.29,
+      "revenue": 865.45,
+      "conversions": 17
+    },
+    {
+      "date": "2026-08-17",
+      "channel": "TikTok Ads",
+      "spend": 565.52,
+      "revenue": 806.74,
+      "conversions": 19
+    },
+    {
+      "date": "2026-08-18",
+      "channel": "Google Ads",
+      "spend": 1466.51,
+      "revenue": 3879.01,
+      "conversions": 57
+    },
+    {
+      "date": "2026-08-18",
+      "channel": "Meta Ads",
+      "spend": 1005.1100000000001,
+      "revenue": 1491.13,
+      "conversions": 25
+    },
+    {
+      "date": "2026-08-18",
+      "channel": "Programmatic Display",
+      "spend": 601.49,
+      "revenue": 704.4200000000001,
+      "conversions": 12
+    },
+    {
+      "date": "2026-08-18",
+      "channel": "TikTok Ads",
+      "spend": 206.2,
+      "revenue": 361.48,
+      "conversions": 7
+    },
+    {
+      "date": "2026-08-19",
+      "channel": "Google Ads",
+      "spend": 1115.73,
+      "revenue": 2297.1,
+      "conversions": 35
+    },
+    {
+      "date": "2026-08-19",
+      "channel": "Meta Ads",
+      "spend": 1524.8899999999999,
+      "revenue": 2611.2200000000003,
+      "conversions": 49
+    },
+    {
+      "date": "2026-08-19",
+      "channel": "Programmatic Display",
+      "spend": 673.44,
+      "revenue": 586.77,
+      "conversions": 12
+    },
+    {
+      "date": "2026-08-19",
+      "channel": "TikTok Ads",
+      "spend": 168.97,
+      "revenue": 339.44,
+      "conversions": 7
+    },
+    {
+      "date": "2026-08-20",
+      "channel": "Google Ads",
+      "spend": 1328.3899999999999,
+      "revenue": 2225.03,
+      "conversions": 34
+    },
+    {
+      "date": "2026-08-20",
+      "channel": "Meta Ads",
+      "spend": 1137.78,
+      "revenue": 2055.2,
+      "conversions": 39
+    },
+    {
+      "date": "2026-08-20",
+      "channel": "Programmatic Display",
+      "spend": 741.54,
+      "revenue": 668.99,
+      "conversions": 12
+    },
+    {
+      "date": "2026-08-20",
+      "channel": "TikTok Ads",
+      "spend": 580.32,
+      "revenue": 625.29,
+      "conversions": 13
+    },
+    {
+      "date": "2026-08-21",
+      "channel": "Google Ads",
+      "spend": 1924.1100000000001,
+      "revenue": 3982.66,
+      "conversions": 59
+    },
+    {
+      "date": "2026-08-21",
+      "channel": "Meta Ads",
+      "spend": 605.89,
+      "revenue": 884.8,
+      "conversions": 14
+    },
+    {
+      "date": "2026-08-21",
+      "channel": "Programmatic Display",
+      "spend": 928.8900000000001,
+      "revenue": 878.86,
+      "conversions": 18
+    },
+    {
+      "date": "2026-08-21",
+      "channel": "TikTok Ads",
+      "spend": 213.09,
+      "revenue": 360.59,
+      "conversions": 8
+    },
+    {
+      "date": "2026-08-22",
+      "channel": "Google Ads",
+      "spend": 2377.58,
+      "revenue": 5234.21,
+      "conversions": 76
+    },
+    {
+      "date": "2026-08-22",
+      "channel": "Meta Ads",
+      "spend": 894.88,
+      "revenue": 2058.18,
+      "conversions": 34
+    },
+    {
+      "date": "2026-08-22",
+      "channel": "Programmatic Display",
+      "spend": 341.91,
+      "revenue": 270.3,
+      "conversions": 5
+    },
+    {
+      "date": "2026-08-22",
+      "channel": "TikTok Ads",
+      "spend": 277.39,
+      "revenue": 375.01,
+      "conversions": 9
+    },
+    {
+      "date": "2026-08-23",
+      "channel": "Google Ads",
+      "spend": 1318.01,
+      "revenue": 2129.3,
+      "conversions": 34
+    },
+    {
+      "date": "2026-08-23",
+      "channel": "Meta Ads",
+      "spend": 1174.14,
+      "revenue": 2033.5800000000002,
+      "conversions": 32
+    },
+    {
+      "date": "2026-08-23",
+      "channel": "Programmatic Display",
+      "spend": 1328.15,
+      "revenue": 1486.99,
+      "conversions": 25
+    },
+    {
+      "date": "2026-08-23",
+      "channel": "TikTok Ads",
+      "spend": 303.48,
+      "revenue": 429.46,
+      "conversions": 11
+    },
+    {
+      "date": "2026-08-24",
+      "channel": "Google Ads",
+      "spend": 1127.92,
+      "revenue": 2005.02,
+      "conversions": 33
+    },
+    {
+      "date": "2026-08-24",
+      "channel": "Meta Ads",
+      "spend": 1064.01,
+      "revenue": 1391.6,
+      "conversions": 27
+    },
+    {
+      "date": "2026-08-24",
+      "channel": "Programmatic Display",
+      "spend": 881.08,
+      "revenue": 793.47,
+      "conversions": 18
+    },
+    {
+      "date": "2026-08-24",
+      "channel": "TikTok Ads",
+      "spend": 409.47,
+      "revenue": 574.17,
+      "conversions": 15
+    },
+    {
+      "date": "2026-08-25",
+      "channel": "Google Ads",
+      "spend": 1719.1399999999999,
+      "revenue": 4496.46,
+      "conversions": 68
+    },
+    {
+      "date": "2026-08-25",
+      "channel": "Meta Ads",
+      "spend": 702.4000000000001,
+      "revenue": 844.95,
+      "conversions": 14
+    },
+    {
+      "date": "2026-08-25",
+      "channel": "Programmatic Display",
+      "spend": 1307.0,
+      "revenue": 1605.48,
+      "conversions": 27
+    },
+    {
+      "date": "2026-08-25",
+      "channel": "TikTok Ads",
+      "spend": 252.82,
+      "revenue": 430.33,
+      "conversions": 9
+    },
+    {
+      "date": "2026-08-26",
+      "channel": "Google Ads",
+      "spend": 1546.49,
+      "revenue": 3471.73,
+      "conversions": 55
+    },
+    {
+      "date": "2026-08-26",
+      "channel": "Meta Ads",
+      "spend": 1406.1100000000001,
+      "revenue": 2407.65,
+      "conversions": 37
+    },
+    {
+      "date": "2026-08-26",
+      "channel": "Programmatic Display",
+      "spend": 1016.3800000000001,
+      "revenue": 998.72,
+      "conversions": 20
+    },
+    {
+      "date": "2026-08-26",
+      "channel": "TikTok Ads",
+      "spend": 672.37,
+      "revenue": 1010.13,
+      "conversions": 22
+    },
+    {
+      "date": "2026-08-27",
+      "channel": "Google Ads",
+      "spend": 1391.1200000000001,
+      "revenue": 2589.85,
+      "conversions": 42
+    },
+    {
+      "date": "2026-08-27",
+      "channel": "Meta Ads",
+      "spend": 520.32,
+      "revenue": 943.93,
+      "conversions": 15
+    },
+    {
+      "date": "2026-08-27",
+      "channel": "Programmatic Display",
+      "spend": 456.62,
+      "revenue": 324.15,
+      "conversions": 6
+    },
+    {
+      "date": "2026-08-27",
+      "channel": "TikTok Ads",
+      "spend": 401.27,
+      "revenue": 435.64,
+      "conversions": 8
+    },
+    {
+      "date": "2026-08-28",
+      "channel": "Google Ads",
+      "spend": 1505.1,
+      "revenue": 2824.6400000000003,
+      "conversions": 41
+    },
+    {
+      "date": "2026-08-28",
+      "channel": "Meta Ads",
+      "spend": 1275.78,
+      "revenue": 2771.0600000000004,
+      "conversions": 50
+    },
+    {
+      "date": "2026-08-28",
+      "channel": "Programmatic Display",
+      "spend": 762.1700000000001,
+      "revenue": 481.72,
+      "conversions": 9
+    },
+    {
+      "date": "2026-08-28",
+      "channel": "TikTok Ads",
+      "spend": 540.87,
+      "revenue": 539.18,
+      "conversions": 13
+    },
+    {
+      "date": "2026-08-29",
+      "channel": "Google Ads",
+      "spend": 1858.33,
+      "revenue": 3618.8,
+      "conversions": 50
+    },
+    {
+      "date": "2026-08-29",
+      "channel": "Meta Ads",
+      "spend": 1524.88,
+      "revenue": 2550.37,
+      "conversions": 50
+    },
+    {
+      "date": "2026-08-29",
+      "channel": "Programmatic Display",
+      "spend": 1094.3999999999999,
+      "revenue": 844.75,
+      "conversions": 17
+    },
+    {
+      "date": "2026-08-29",
+      "channel": "TikTok Ads",
+      "spend": 721.06,
+      "revenue": 1243.56,
+      "conversions": 25
+    },
+    {
+      "date": "2026-08-30",
+      "channel": "Google Ads",
+      "spend": 1762.24,
+      "revenue": 3673.9,
+      "conversions": 52
+    },
+    {
+      "date": "2026-08-30",
+      "channel": "Meta Ads",
+      "spend": 1036.42,
+      "revenue": 2306.3100000000004,
+      "conversions": 38
+    },
+    {
+      "date": "2026-08-30",
+      "channel": "Programmatic Display",
+      "spend": 1149.96,
+      "revenue": 959.12,
+      "conversions": 17
+    },
+    {
+      "date": "2026-08-30",
+      "channel": "TikTok Ads",
+      "spend": 715.01,
+      "revenue": 976.09,
+      "conversions": 18
+    },
+    {
+      "date": "2026-08-31",
+      "channel": "Google Ads",
+      "spend": 1521.41,
+      "revenue": 3331.69,
+      "conversions": 50
+    },
+    {
+      "date": "2026-08-31",
+      "channel": "Meta Ads",
+      "spend": 715.44,
+      "revenue": 943.6299999999999,
+      "conversions": 16
+    },
+    {
+      "date": "2026-08-31",
+      "channel": "Programmatic Display",
+      "spend": 780.46,
+      "revenue": 580.9,
+      "conversions": 12
+    },
+    {
+      "date": "2026-08-31",
+      "channel": "TikTok Ads",
+      "spend": 832.0,
+      "revenue": 728.23,
+      "conversions": 18
+    },
+    {
+      "date": "2026-09-01",
+      "channel": "Google Ads",
+      "spend": 1237.1799999999998,
+      "revenue": 2117.13,
+      "conversions": 29
+    },
+    {
+      "date": "2026-09-01",
+      "channel": "Meta Ads",
+      "spend": 542.15,
+      "revenue": 1096.54,
+      "conversions": 19
+    },
+    {
+      "date": "2026-09-01",
+      "channel": "Programmatic Display",
+      "spend": 737.25,
+      "revenue": 668.5799999999999,
+      "conversions": 12
+    },
+    {
+      "date": "2026-09-01",
+      "channel": "TikTok Ads",
+      "spend": 495.04,
+      "revenue": 586.22,
+      "conversions": 13
+    },
+    {
+      "date": "2026-09-02",
+      "channel": "Google Ads",
+      "spend": 1527.6299999999999,
+      "revenue": 2537.1800000000003,
+      "conversions": 41
+    },
+    {
+      "date": "2026-09-02",
+      "channel": "Meta Ads",
+      "spend": 724.2,
+      "revenue": 1056.63,
+      "conversions": 18
+    },
+    {
+      "date": "2026-09-02",
+      "channel": "Programmatic Display",
+      "spend": 1147.73,
+      "revenue": 1145.71,
+      "conversions": 21
+    },
+    {
+      "date": "2026-09-02",
+      "channel": "TikTok Ads",
+      "spend": 822.5,
+      "revenue": 1165.96,
+      "conversions": 27
+    },
+    {
+      "date": "2026-09-03",
+      "channel": "Google Ads",
+      "spend": 1442.8,
+      "revenue": 3156.88,
+      "conversions": 46
+    },
+    {
+      "date": "2026-09-03",
+      "channel": "Meta Ads",
+      "spend": 1063.26,
+      "revenue": 2046.4699999999998,
+      "conversions": 35
+    },
+    {
+      "date": "2026-09-03",
+      "channel": "Programmatic Display",
+      "spend": 1117.5,
+      "revenue": 1175.3600000000001,
+      "conversions": 22
+    },
+    {
+      "date": "2026-09-03",
+      "channel": "TikTok Ads",
+      "spend": 518.84,
+      "revenue": 682.27,
+      "conversions": 14
+    },
+    {
+      "date": "2026-09-04",
+      "channel": "Google Ads",
+      "spend": 1777.21,
+      "revenue": 4327.49,
+      "conversions": 58
+    },
+    {
+      "date": "2026-09-04",
+      "channel": "Meta Ads",
+      "spend": 1064.05,
+      "revenue": 1995.42,
+      "conversions": 37
+    },
+    {
+      "date": "2026-09-04",
+      "channel": "Programmatic Display",
+      "spend": 870.52,
+      "revenue": 863.97,
+      "conversions": 17
+    },
+    {
+      "date": "2026-09-04",
+      "channel": "TikTok Ads",
+      "spend": 437.34,
+      "revenue": 482.05,
+      "conversions": 11
+    },
+    {
+      "date": "2026-09-05",
+      "channel": "Google Ads",
+      "spend": 1717.3400000000001,
+      "revenue": 4248.75,
+      "conversions": 55
+    },
+    {
+      "date": "2026-09-05",
+      "channel": "Meta Ads",
+      "spend": 1476.5,
+      "revenue": 2832.6499999999996,
+      "conversions": 47
+    },
+    {
+      "date": "2026-09-05",
+      "channel": "Programmatic Display",
+      "spend": 893.45,
+      "revenue": 487.34000000000003,
+      "conversions": 11
+    },
+    {
+      "date": "2026-09-05",
+      "channel": "TikTok Ads",
+      "spend": 360.05,
+      "revenue": 619.09,
+      "conversions": 11
+    },
+    {
+      "date": "2026-09-06",
+      "channel": "Google Ads",
+      "spend": 1915.0700000000002,
+      "revenue": 4222.4,
+      "conversions": 59
+    },
+    {
+      "date": "2026-09-06",
+      "channel": "Meta Ads",
+      "spend": 1388.1999999999998,
+      "revenue": 2298.82,
+      "conversions": 44
+    },
+    {
+      "date": "2026-09-06",
+      "channel": "Programmatic Display",
+      "spend": 869.0899999999999,
+      "revenue": 720.4000000000001,
+      "conversions": 14
+    },
+    {
+      "date": "2026-09-06",
+      "channel": "TikTok Ads",
+      "spend": 447.96,
+      "revenue": 682.01,
+      "conversions": 15
+    },
+    {
+      "date": "2026-09-07",
+      "channel": "Google Ads",
+      "spend": 1168.66,
+      "revenue": 2767.16,
+      "conversions": 44
+    },
+    {
+      "date": "2026-09-07",
+      "channel": "Meta Ads",
+      "spend": 710.24,
+      "revenue": 1748.8400000000001,
+      "conversions": 28
+    },
+    {
+      "date": "2026-09-07",
+      "channel": "Programmatic Display",
+      "spend": 1251.9699999999998,
+      "revenue": 869.98,
+      "conversions": 16
+    },
+    {
+      "date": "2026-09-07",
+      "channel": "TikTok Ads",
+      "spend": 527.26,
+      "revenue": 991.24,
+      "conversions": 17
+    },
+    {
+      "date": "2026-09-08",
+      "channel": "Google Ads",
+      "spend": 1285.1999999999998,
+      "revenue": 3138.1,
+      "conversions": 46
+    },
+    {
+      "date": "2026-09-08",
+      "channel": "Meta Ads",
+      "spend": 666.71,
+      "revenue": 1083.44,
+      "conversions": 17
+    },
+    {
+      "date": "2026-09-08",
+      "channel": "Programmatic Display",
+      "spend": 1312.73,
+      "revenue": 1334.5700000000002,
+      "conversions": 25
+    },
+    {
+      "date": "2026-09-08",
+      "channel": "TikTok Ads",
+      "spend": 194.61,
+      "revenue": 400.52,
+      "conversions": 9
+    },
+    {
+      "date": "2026-09-09",
+      "channel": "Google Ads",
+      "spend": 1522.8,
+      "revenue": 2672.3900000000003,
+      "conversions": 39
+    },
+    {
+      "date": "2026-09-09",
+      "channel": "Meta Ads",
+      "spend": 700.53,
+      "revenue": 1352.4,
+      "conversions": 23
+    },
+    {
+      "date": "2026-09-09",
+      "channel": "Programmatic Display",
+      "spend": 614.98,
+      "revenue": 492.84,
+      "conversions": 10
+    },
+    {
+      "date": "2026-09-09",
+      "channel": "TikTok Ads",
+      "spend": 519.3,
+      "revenue": 804.24,
+      "conversions": 20
+    },
+    {
+      "date": "2026-09-10",
+      "channel": "Google Ads",
+      "spend": 1256.51,
+      "revenue": 2153.33,
+      "conversions": 36
+    },
+    {
+      "date": "2026-09-10",
+      "channel": "Meta Ads",
+      "spend": 985.98,
+      "revenue": 1005.85,
+      "conversions": 21
+    },
+    {
+      "date": "2026-09-10",
+      "channel": "Programmatic Display",
+      "spend": 1199.72,
+      "revenue": 977.1199999999999,
+      "conversions": 21
+    },
+    {
+      "date": "2026-09-10",
+      "channel": "TikTok Ads",
+      "spend": 650.1,
+      "revenue": 1180.21,
+      "conversions": 22
+    },
+    {
+      "date": "2026-09-11",
+      "channel": "Google Ads",
+      "spend": 1629.8400000000001,
+      "revenue": 2793.46,
+      "conversions": 44
+    },
+    {
+      "date": "2026-09-11",
+      "channel": "Meta Ads",
+      "spend": 1442.17,
+      "revenue": 3099.82,
+      "conversions": 53
+    },
+    {
+      "date": "2026-09-11",
+      "channel": "Programmatic Display",
+      "spend": 1033.6599999999999,
+      "revenue": 883.92,
+      "conversions": 20
+    },
+    {
+      "date": "2026-09-11",
+      "channel": "TikTok Ads",
+      "spend": 490.93,
+      "revenue": 772.35,
+      "conversions": 17
+    },
+    {
+      "date": "2026-09-12",
+      "channel": "Google Ads",
+      "spend": 1579.49,
+      "revenue": 3664.21,
+      "conversions": 55
+    },
+    {
+      "date": "2026-09-12",
+      "channel": "Meta Ads",
+      "spend": 738.5699999999999,
+      "revenue": 1140.97,
+      "conversions": 25
+    },
+    {
+      "date": "2026-09-12",
+      "channel": "Programmatic Display",
+      "spend": 779.8800000000001,
+      "revenue": 781.74,
+      "conversions": 15
+    },
+    {
+      "date": "2026-09-12",
+      "channel": "TikTok Ads",
+      "spend": 288.34,
+      "revenue": 333.39,
+      "conversions": 7
+    },
+    {
+      "date": "2026-09-13",
+      "channel": "Google Ads",
+      "spend": 1539.67,
+      "revenue": 2253.15,
+      "conversions": 33
+    },
+    {
+      "date": "2026-09-13",
+      "channel": "Meta Ads",
+      "spend": 1069.02,
+      "revenue": 1603.0900000000001,
+      "conversions": 28
+    },
+    {
+      "date": "2026-09-13",
+      "channel": "Programmatic Display",
+      "spend": 1471.06,
+      "revenue": 1481.49,
+      "conversions": 27
+    },
+    {
+      "date": "2026-09-13",
+      "channel": "TikTok Ads",
+      "spend": 528.34,
+      "revenue": 927.51,
+      "conversions": 21
+    },
+    {
+      "date": "2026-09-14",
+      "channel": "Google Ads",
+      "spend": 2064.38,
+      "revenue": 3764.5299999999997,
+      "conversions": 58
+    },
+    {
+      "date": "2026-09-14",
+      "channel": "Meta Ads",
+      "spend": 993.8900000000001,
+      "revenue": 2345.75,
+      "conversions": 39
+    },
+    {
+      "date": "2026-09-14",
+      "channel": "Programmatic Display",
+      "spend": 1250.34,
+      "revenue": 1192.15,
+      "conversions": 23
+    },
+    {
+      "date": "2026-09-14",
+      "channel": "TikTok Ads",
+      "spend": 389.37,
+      "revenue": 410.35,
+      "conversions": 8
+    },
+    {
+      "date": "2026-09-15",
+      "channel": "Google Ads",
+      "spend": 1467.97,
+      "revenue": 3988.7599999999998,
+      "conversions": 58
+    },
+    {
+      "date": "2026-09-15",
+      "channel": "Meta Ads",
+      "spend": 848.0699999999999,
+      "revenue": 1708.85,
+      "conversions": 27
+    },
+    {
+      "date": "2026-09-15",
+      "channel": "Programmatic Display",
+      "spend": 854.19,
+      "revenue": 1278.04,
+      "conversions": 20
+    },
+    {
+      "date": "2026-09-15",
+      "channel": "TikTok Ads",
+      "spend": 419.23,
+      "revenue": 504.46,
+      "conversions": 12
+    },
+    {
+      "date": "2026-09-16",
+      "channel": "Google Ads",
+      "spend": 1726.35,
+      "revenue": 3356.21,
+      "conversions": 57
+    },
+    {
+      "date": "2026-09-16",
+      "channel": "Meta Ads",
+      "spend": 1011.1499999999999,
+      "revenue": 1870.25,
+      "conversions": 32
+    },
+    {
+      "date": "2026-09-16",
+      "channel": "Programmatic Display",
+      "spend": 1047.94,
+      "revenue": 968.05,
+      "conversions": 17
+    },
+    {
+      "date": "2026-09-16",
+      "channel": "TikTok Ads",
+      "spend": 573.87,
+      "revenue": 1154.84,
+      "conversions": 23
+    },
+    {
+      "date": "2026-09-17",
+      "channel": "Google Ads",
+      "spend": 1291.03,
+      "revenue": 2012.26,
+      "conversions": 31
+    },
+    {
+      "date": "2026-09-17",
+      "channel": "Meta Ads",
+      "spend": 1208.49,
+      "revenue": 1807.81,
+      "conversions": 30
+    },
+    {
+      "date": "2026-09-17",
+      "channel": "Programmatic Display",
+      "spend": 1225.12,
+      "revenue": 920.73,
+      "conversions": 19
+    },
+    {
+      "date": "2026-09-17",
+      "channel": "TikTok Ads",
+      "spend": 894.13,
+      "revenue": 1067.59,
+      "conversions": 20
+    },
+    {
+      "date": "2026-09-18",
+      "channel": "Google Ads",
+      "spend": 1364.94,
+      "revenue": 2113.5699999999997,
+      "conversions": 35
+    },
+    {
+      "date": "2026-09-18",
+      "channel": "Meta Ads",
+      "spend": 1053.4,
+      "revenue": 1547.15,
+      "conversions": 29
+    },
+    {
+      "date": "2026-09-18",
+      "channel": "Programmatic Display",
+      "spend": 856.28,
+      "revenue": 757.34,
+      "conversions": 14
+    },
+    {
+      "date": "2026-09-18",
+      "channel": "TikTok Ads",
+      "spend": 726.01,
+      "revenue": 662.69,
+      "conversions": 21
+    },
+    {
+      "date": "2026-09-19",
+      "channel": "Google Ads",
+      "spend": 1829.52,
+      "revenue": 3414.9399999999996,
+      "conversions": 50
+    },
+    {
+      "date": "2026-09-19",
+      "channel": "Meta Ads",
+      "spend": 1730.73,
+      "revenue": 3066.33,
+      "conversions": 55
+    },
+    {
+      "date": "2026-09-19",
+      "channel": "Programmatic Display",
+      "spend": 963.44,
+      "revenue": 976.85,
+      "conversions": 18
+    },
+    {
+      "date": "2026-09-19",
+      "channel": "TikTok Ads",
+      "spend": 322.14,
+      "revenue": 306.25,
+      "conversions": 9
+    },
+    {
+      "date": "2026-09-20",
+      "channel": "Google Ads",
+      "spend": 1487.83,
+      "revenue": 3394.8,
+      "conversions": 46
+    },
+    {
+      "date": "2026-09-20",
+      "channel": "Meta Ads",
+      "spend": 1156.7199999999998,
+      "revenue": 2058.21,
+      "conversions": 36
+    },
+    {
+      "date": "2026-09-20",
+      "channel": "Programmatic Display",
+      "spend": 1194.25,
+      "revenue": 1137.05,
+      "conversions": 22
+    },
+    {
+      "date": "2026-09-20",
+      "channel": "TikTok Ads",
+      "spend": 859.0,
+      "revenue": 1725.23,
+      "conversions": 32
+    },
+    {
+      "date": "2026-09-21",
+      "channel": "Google Ads",
+      "spend": 1730.44,
+      "revenue": 3422.44,
+      "conversions": 52
+    },
+    {
+      "date": "2026-09-21",
+      "channel": "Meta Ads",
+      "spend": 1052.43,
+      "revenue": 1923.47,
+      "conversions": 32
+    },
+    {
+      "date": "2026-09-21",
+      "channel": "Programmatic Display",
+      "spend": 752.5899999999999,
+      "revenue": 679.74,
+      "conversions": 15
+    },
+    {
+      "date": "2026-09-21",
+      "channel": "TikTok Ads",
+      "spend": 387.9,
+      "revenue": 532.2,
+      "conversions": 11
+    },
+    {
+      "date": "2026-09-22",
+      "channel": "Google Ads",
+      "spend": 1144.51,
+      "revenue": 2835.6,
+      "conversions": 39
+    },
+    {
+      "date": "2026-09-22",
+      "channel": "Meta Ads",
+      "spend": 1302.1100000000001,
+      "revenue": 3216.05,
+      "conversions": 55
+    },
+    {
+      "date": "2026-09-22",
+      "channel": "Programmatic Display",
+      "spend": 1069.3,
+      "revenue": 1294.73,
+      "conversions": 27
+    },
+    {
+      "date": "2026-09-22",
+      "channel": "TikTok Ads",
+      "spend": 610.81,
+      "revenue": 943.15,
+      "conversions": 21
+    },
+    {
+      "date": "2026-09-23",
+      "channel": "Google Ads",
+      "spend": 1434.88,
+      "revenue": 4124.47,
+      "conversions": 56
+    },
+    {
+      "date": "2026-09-23",
+      "channel": "Meta Ads",
+      "spend": 669.76,
+      "revenue": 1302.1200000000001,
+      "conversions": 23
+    },
+    {
+      "date": "2026-09-23",
+      "channel": "Programmatic Display",
+      "spend": 973.26,
+      "revenue": 967.06,
+      "conversions": 18
+    },
+    {
+      "date": "2026-09-23",
+      "channel": "TikTok Ads",
+      "spend": 587.39,
+      "revenue": 845.31,
+      "conversions": 23
+    },
+    {
+      "date": "2026-09-24",
+      "channel": "Google Ads",
+      "spend": 2064.0299999999997,
+      "revenue": 3908.84,
+      "conversions": 54
+    },
+    {
+      "date": "2026-09-24",
+      "channel": "Meta Ads",
+      "spend": 949.8299999999999,
+      "revenue": 1931.43,
+      "conversions": 33
+    },
+    {
+      "date": "2026-09-24",
+      "channel": "Programmatic Display",
+      "spend": 1231.8899999999999,
+      "revenue": 1137.52,
+      "conversions": 23
+    },
+    {
+      "date": "2026-09-24",
+      "channel": "TikTok Ads",
+      "spend": 572.83,
+      "revenue": 827.35,
+      "conversions": 16
+    },
+    {
+      "date": "2026-09-25",
+      "channel": "Google Ads",
+      "spend": 1143.07,
+      "revenue": 2874.5499999999997,
+      "conversions": 39
+    },
+    {
+      "date": "2026-09-25",
+      "channel": "Meta Ads",
+      "spend": 1585.94,
+      "revenue": 2678.38,
+      "conversions": 48
+    },
+    {
+      "date": "2026-09-25",
+      "channel": "Programmatic Display",
+      "spend": 1145.3,
+      "revenue": 987.1,
+      "conversions": 21
+    },
+    {
+      "date": "2026-09-25",
+      "channel": "TikTok Ads",
+      "spend": 398.46,
+      "revenue": 336.58,
+      "conversions": 7
+    },
+    {
+      "date": "2026-09-26",
+      "channel": "Google Ads",
+      "spend": 763.47,
+      "revenue": 1429.64,
+      "conversions": 23
+    },
+    {
+      "date": "2026-09-26",
+      "channel": "Meta Ads",
+      "spend": 1560.14,
+      "revenue": 2790.76,
+      "conversions": 40
+    },
+    {
+      "date": "2026-09-26",
+      "channel": "Programmatic Display",
+      "spend": 1673.17,
+      "revenue": 2090.54,
+      "conversions": 36
+    },
+    {
+      "date": "2026-09-26",
+      "channel": "TikTok Ads",
+      "spend": 698.78,
+      "revenue": 722.48,
+      "conversions": 15
+    },
+    {
+      "date": "2026-09-27",
+      "channel": "Google Ads",
+      "spend": 1241.83,
+      "revenue": 2657.51,
+      "conversions": 39
+    },
+    {
+      "date": "2026-09-27",
+      "channel": "Meta Ads",
+      "spend": 848.44,
+      "revenue": 1642.87,
+      "conversions": 32
+    },
+    {
+      "date": "2026-09-27",
+      "channel": "Programmatic Display",
+      "spend": 916.3,
+      "revenue": 654.98,
+      "conversions": 17
+    },
+    {
+      "date": "2026-09-27",
+      "channel": "TikTok Ads",
+      "spend": 384.71,
+      "revenue": 645.51,
+      "conversions": 12
+    }
+  ],
+  "quality_flags": [
+    {
+      "row_id": 1228,
+      "date": "2026-09-01",
+      "channel": "Meta Ads",
+      "campaign": "Prospecting - Lookalike",
+      "clicks": 458,
+      "conversions": 464,
+      "flag_conversions_exceed_clicks": 1,
+      "flag_missing_campaign": 0
+    },
+    {
+      "row_id": 562,
+      "date": "2026-06-10",
+      "channel": "Google Ads",
+      "campaign": "Non-Brand Search",
+      "clicks": 276,
+      "conversions": 287,
+      "flag_conversions_exceed_clicks": 1,
+      "flag_missing_campaign": 0
+    },
+    {
+      "row_id": 1152,
+      "date": "2026-08-22",
+      "channel": "Programmatic Display",
+      "campaign": NaN,
+      "clicks": 1232,
+      "conversions": 11,
+      "flag_conversions_exceed_clicks": 0,
+      "flag_missing_campaign": 1
+    },
+    {
+      "row_id": 1044,
+      "date": "2026-08-09",
+      "channel": "Meta Ads",
+      "campaign": NaN,
+      "clicks": 641,
+      "conversions": 12,
+      "flag_conversions_exceed_clicks": 0,
+      "flag_missing_campaign": 1
+    },
+    {
+      "row_id": 594,
+      "date": "2026-06-14",
+      "channel": "Google Ads",
+      "campaign": "Non-Brand Search",
+      "clicks": 476,
+      "conversions": 483,
+      "flag_conversions_exceed_clicks": 1,
+      "flag_missing_campaign": 0
+    },
+    {
+      "row_id": 897,
+      "date": "2026-07-22",
+      "channel": "Google Ads",
+      "campaign": NaN,
+      "clicks": 363,
+      "conversions": 19,
+      "flag_conversions_exceed_clicks": 0,
+      "flag_missing_campaign": 1
+    },
+    {
+      "row_id": 265,
+      "date": "2026-05-04",
+      "channel": "Google Ads",
+      "campaign": "Brand Search",
+      "clicks": 169,
+      "conversions": 189,
+      "flag_conversions_exceed_clicks": 1,
+      "flag_missing_campaign": 0
+    },
+    {
+      "row_id": 800,
+      "date": "2026-07-09",
+      "channel": "Programmatic Display",
+      "campaign": NaN,
+      "clicks": 464,
+      "conversions": 4,
+      "flag_conversions_exceed_clicks": 0,
+      "flag_missing_campaign": 1
+    },
+    {
+      "row_id": 787,
+      "date": "2026-07-08",
+      "channel": "Google Ads",
+      "campaign": NaN,
+      "clicks": 365,
+      "conversions": 18,
+      "flag_conversions_exceed_clicks": 0,
+      "flag_missing_campaign": 1
+    },
+    {
+      "row_id": 94,
+      "date": "2026-04-12",
+      "channel": "TikTok Ads",
+      "campaign": "Spark Ads - UGC",
+      "clicks": 553,
+      "conversions": 563,
+      "flag_conversions_exceed_clicks": 1,
+      "flag_missing_campaign": 0
+    },
+    {
+      "row_id": 1427,
+      "date": "2026-09-26",
+      "channel": "Google Ads",
+      "campaign": "Shopping",
+      "clicks": 384,
+      "conversions": 401,
+      "flag_conversions_exceed_clicks": 1,
+      "flag_missing_campaign": 0
+    }
+  ],
+  "ltv": [
+    {
+      "channel": "Google Ads",
+      "aov": 68.06,
+      "cac": 32.85,
+      "ltv_6mo": 195.33,
+      "ltv_to_cac": 5.95
+    },
+    {
+      "channel": "Meta Ads",
+      "aov": 58.29,
+      "cac": 32.81,
+      "ltv_6mo": 128.24,
+      "ltv_to_cac": 3.91
+    },
+    {
+      "channel": "Programmatic Display",
+      "aov": 52.42,
+      "cac": 55.69,
+      "ltv_6mo": 81.78,
+      "ltv_to_cac": 1.47
+    },
+    {
+      "channel": "TikTok Ads",
+      "aov": 46.88,
+      "cac": 32.55,
+      "ltv_6mo": 83.44,
+      "ltv_to_cac": 2.56
+    }
+  ],
+  "incrementality": {
+    "did_coefficient_per_dma_per_day": 862.63,
+    "p_value": 2.9663432608136415e-11,
+    "p_value_display": "<0.0001",
+    "significant": true,
+    "pre_period_gap_pct": 2.5,
+    "parallel_trends_ok": true,
+    "post_exposed_avg_daily_revenue": 4737.06,
+    "post_holdout_avg_daily_revenue": 3778.98,
+    "estimated_total_incremental_revenue": 194091.05,
+    "test_window_days": 45,
+    "timeseries": [
+      {
+        "date": "2026-05-31",
+        "exposed": 3813.0699999999997,
+        "holdout": 3086.41
+      },
+      {
+        "date": "2026-06-01",
+        "exposed": 3950.21,
+        "holdout": 4053.86
+      },
+      {
+        "date": "2026-06-02",
+        "exposed": 4177.0,
+        "holdout": 3352.17
+      },
+      {
+        "date": "2026-06-03",
+        "exposed": 3610.26,
+        "holdout": 4223.03
+      },
+      {
+        "date": "2026-06-04",
+        "exposed": 3668.36,
+        "holdout": 3387.85
+      },
+      {
+        "date": "2026-06-05",
+        "exposed": 3621.9,
+        "holdout": 3491.02
+      },
+      {
+        "date": "2026-06-06",
+        "exposed": 3926.37,
+        "holdout": 2952.86
+      },
+      {
+        "date": "2026-06-07",
+        "exposed": 4323.42,
+        "holdout": 4236.52
+      },
+      {
+        "date": "2026-06-08",
+        "exposed": 3716.32,
+        "holdout": 3628.35
+      },
+      {
+        "date": "2026-06-09",
+        "exposed": 3841.69,
+        "holdout": 3994.96
+      },
+      {
+        "date": "2026-06-10",
+        "exposed": 3474.16,
+        "holdout": 4292.96
+      },
+      {
+        "date": "2026-06-11",
+        "exposed": 4274.82,
+        "holdout": 3604.08
+      },
+      {
+        "date": "2026-06-12",
+        "exposed": 3555.61,
+        "holdout": 4485.91
+      },
+      {
+        "date": "2026-06-13",
+        "exposed": 3487.72,
+        "holdout": 4187.92
+      },
+      {
+        "date": "2026-06-14",
+        "exposed": 3610.2599999999998,
+        "holdout": 3937.7599999999998
+      },
+      {
+        "date": "2026-06-15",
+        "exposed": 3746.23,
+        "holdout": 3886.77
+      },
+      {
+        "date": "2026-06-16",
+        "exposed": 3938.7,
+        "holdout": 3833.01
+      },
+      {
+        "date": "2026-06-17",
+        "exposed": 4782.38,
+        "holdout": 4037.5
+      },
+      {
+        "date": "2026-06-18",
+        "exposed": 4082.83,
+        "holdout": 3858.1800000000003
+      },
+      {
+        "date": "2026-06-19",
+        "exposed": 3533.12,
+        "holdout": 3326.63
+      },
+      {
+        "date": "2026-06-20",
+        "exposed": 4299.41,
+        "holdout": 3652.34
+      },
+      {
+        "date": "2026-06-21",
+        "exposed": 4426.62,
+        "holdout": 4529.08
+      },
+      {
+        "date": "2026-06-22",
+        "exposed": 4665.08,
+        "holdout": 3741.3900000000003
+      },
+      {
+        "date": "2026-06-23",
+        "exposed": 3631.36,
+        "holdout": 3395.2200000000003
+      },
+      {
+        "date": "2026-06-24",
+        "exposed": 3548.84,
+        "holdout": 4206.0599999999995
+      },
+      {
+        "date": "2026-06-25",
+        "exposed": 3825.7200000000003,
+        "holdout": 3962.81
+      },
+      {
+        "date": "2026-06-26",
+        "exposed": 4060.5299999999997,
+        "holdout": 3204.73
+      },
+      {
+        "date": "2026-06-27",
+        "exposed": 4110.45,
+        "holdout": 4282.39
+      },
+      {
+        "date": "2026-06-28",
+        "exposed": 3760.74,
+        "holdout": 3631.87
+      },
+      {
+        "date": "2026-06-29",
+        "exposed": 3512.23,
+        "holdout": 3648.33
+      },
+      {
+        "date": "2026-06-30",
+        "exposed": 4657.79,
+        "holdout": 4203.0599999999995
+      },
+      {
+        "date": "2026-07-01",
+        "exposed": 4789.139999999999,
+        "holdout": 3898.86
+      },
+      {
+        "date": "2026-07-02",
+        "exposed": 4525.41,
+        "holdout": 4174.64
+      },
+      {
+        "date": "2026-07-03",
+        "exposed": 4681.6900000000005,
+        "holdout": 3701.41
+      },
+      {
+        "date": "2026-07-04",
+        "exposed": 4732.85,
+        "holdout": 3395.16
+      },
+      {
+        "date": "2026-07-05",
+        "exposed": 4403.21,
+        "holdout": 3382.0
+      },
+      {
+        "date": "2026-07-06",
+        "exposed": 5492.18,
+        "holdout": 4263.929999999999
+      },
+      {
+        "date": "2026-07-07",
+        "exposed": 4908.09,
+        "holdout": 3572.52
+      },
+      {
+        "date": "2026-07-08",
+        "exposed": 5572.35,
+        "holdout": 3681.9300000000003
+      },
+      {
+        "date": "2026-07-09",
+        "exposed": 4424.34,
+        "holdout": 3622.4700000000003
+      },
+      {
+        "date": "2026-07-10",
+        "exposed": 3866.29,
+        "holdout": 3895.2
+      },
+      {
+        "date": "2026-07-11",
+        "exposed": 5167.0,
+        "holdout": 3618.2799999999997
+      },
+      {
+        "date": "2026-07-12",
+        "exposed": 4886.47,
+        "holdout": 3292.92
+      },
+      {
+        "date": "2026-07-13",
+        "exposed": 4301.49,
+        "holdout": 4068.63
+      },
+      {
+        "date": "2026-07-14",
+        "exposed": 5384.69,
+        "holdout": 4255.13
+      },
+      {
+        "date": "2026-07-15",
+        "exposed": 5004.62,
+        "holdout": 2941.69
+      },
+      {
+        "date": "2026-07-16",
+        "exposed": 4839.02,
+        "holdout": 4094.84
+      },
+      {
+        "date": "2026-07-17",
+        "exposed": 5037.59,
+        "holdout": 3547.26
+      },
+      {
+        "date": "2026-07-18",
+        "exposed": 4756.96,
+        "holdout": 3882.1
+      },
+      {
+        "date": "2026-07-19",
+        "exposed": 5243.11,
+        "holdout": 4189.29
+      },
+      {
+        "date": "2026-07-20",
+        "exposed": 5187.76,
+        "holdout": 3735.44
+      },
+      {
+        "date": "2026-07-21",
+        "exposed": 4137.18,
+        "holdout": 3755.36
+      },
+      {
+        "date": "2026-07-22",
+        "exposed": 4534.64,
+        "holdout": 3825.76
+      },
+      {
+        "date": "2026-07-23",
+        "exposed": 3981.24,
+        "holdout": 3558.23
+      },
+      {
+        "date": "2026-07-24",
+        "exposed": 4836.849999999999,
+        "holdout": 3587.1499999999996
+      },
+      {
+        "date": "2026-07-25",
+        "exposed": 4478.24,
+        "holdout": 3851.02
+      },
+      {
+        "date": "2026-07-26",
+        "exposed": 4595.5,
+        "holdout": 3608.69
+      },
+      {
+        "date": "2026-07-27",
+        "exposed": 5256.95,
+        "holdout": 4279.610000000001
+      },
+      {
+        "date": "2026-07-28",
+        "exposed": 5374.75,
+        "holdout": 4285.53
+      },
+      {
+        "date": "2026-07-29",
+        "exposed": 4341.91,
+        "holdout": 3799.84
+      },
+      {
+        "date": "2026-07-30",
+        "exposed": 4318.64,
+        "holdout": 3237.03
+      },
+      {
+        "date": "2026-07-31",
+        "exposed": 4940.21,
+        "holdout": 3729.36
+      },
+      {
+        "date": "2026-08-01",
+        "exposed": 4594.16,
+        "holdout": 3862.79
+      },
+      {
+        "date": "2026-08-02",
+        "exposed": 4040.8,
+        "holdout": 4517.53
+      },
+      {
+        "date": "2026-08-03",
+        "exposed": 4594.75,
+        "holdout": 3640.63
+      },
+      {
+        "date": "2026-08-04",
+        "exposed": 4745.5,
+        "holdout": 3468.11
+      },
+      {
+        "date": "2026-08-05",
+        "exposed": 5441.86,
+        "holdout": 3667.15
+      },
+      {
+        "date": "2026-08-06",
+        "exposed": 4363.98,
+        "holdout": 3769.67
+      },
+      {
+        "date": "2026-08-07",
+        "exposed": 5071.85,
+        "holdout": 3861.32
+      },
+      {
+        "date": "2026-08-08",
+        "exposed": 5190.68,
+        "holdout": 3651.92
+      },
+      {
+        "date": "2026-08-09",
+        "exposed": 4816.110000000001,
+        "holdout": 3853.49
+      },
+      {
+        "date": "2026-08-10",
+        "exposed": 5112.58,
+        "holdout": 2895.92
+      },
+      {
+        "date": "2026-08-11",
+        "exposed": 3778.7400000000002,
+        "holdout": 3977.1400000000003
+      },
+      {
+        "date": "2026-08-12",
+        "exposed": 4395.08,
+        "holdout": 3945.2599999999998
+      },
+      {
+        "date": "2026-08-13",
+        "exposed": 4363.39,
+        "holdout": 4009.0
+      }
+    ]
+  }
+}
